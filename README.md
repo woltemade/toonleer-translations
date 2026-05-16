@@ -1,6 +1,8 @@
 # Toonleer Community Translations
 
-Community-maintained translation improvements for [Toonleer](https://toonleer.com) — a daily math game for kids.
+Community-maintained translation improvements for [Toonleer](https://toonleer.com) — the educational math game designed to boost multiplication speed and mastery of times tables 2–9 and 11–99.
+
+---
 
 At build time, Toonleer fetches this file and merges any improvements into the app. Your changes go live with the next deployment.
 
