@@ -141,7 +141,8 @@
     "lockCompleteHard": "Complete a Hard game first",
     "lockRequiresPro": "Upgrade to Pro to unlock Journey",
     "lockDailyLimit": "Daily attempt used — come back tomorrow or upgrade to Pro",
-    "upgrade": "Upgrade"
+    "upgrade": "Upgrade",
+    "helpUsTranslate": "Help us translate"
   },
   "af": {
     "chooseYourDifficulty": "Kies jou moeilikheidsgraad:",
@@ -285,7 +286,8 @@
     "lockCompleteHard": "Voltooi eers 'n Moeilik-spel",
     "lockRequiresPro": "Opgradeer na Pro om Reis te ontsluit",
     "lockDailyLimit": "Daaglikse poging gebruik — kom môre terug of opgradeer na Pro",
-    "upgrade": "Opgradeer"
+    "upgrade": "Opgradeer",
+    "helpUsTranslate": "Help ons vertaal"
   },
   "zh": {
     "chooseYourDifficulty": "选择难度：",
@@ -428,7 +430,8 @@
     "lockCompleteMedium": "请先完成一局中等游戏",
     "lockCompleteHard": "请先完成一局困难游戏",
     "lockRequiresPro": "升级为 Pro 以解锁旅程",
-    "lockDailyLimit": "今日机会已用 — 明天再来或升级 Pro"
+    "lockDailyLimit": "今日机会已用 — 明天再来或升级 Pro",
+    "helpUsTranslate": "帮助我们翻译"
   },
   "hi": {
     "chooseYourDifficulty": "कठिनाई चुनें:",
@@ -571,7 +574,8 @@
     "lockCompleteMedium": "पहले एक मध्यम खेल पूरा करें",
     "lockCompleteHard": "पहले एक कठिन खेल पूरा करें",
     "lockRequiresPro": "Journey अनलॉक करने के लिए Pro में अपग्रेड करें",
-    "lockDailyLimit": "आज का प्रयास समाप्त — कल लौटें या Pro में अपग्रेड करें"
+    "lockDailyLimit": "आज का प्रयास समाप्त — कल लौटें या Pro में अपग्रेड करें",
+    "helpUsTranslate": "अनुवाद में मदद करें"
   },
   "es": {
     "chooseYourDifficulty": "Elige tu dificultad:",
@@ -715,7 +719,8 @@
     "lockCompleteHard": "Completa primero un juego Difícil",
     "lockRequiresPro": "Actualiza a Pro para desbloquear Journey",
     "lockDailyLimit": "Intento diario usado — vuelve mañana o pasa a Pro",
-    "upgrade": "Mejorar"
+    "upgrade": "Mejorar",
+    "helpUsTranslate": "Ayúdanos a traducir"
   },
   "fr": {
     "chooseYourDifficulty": "Choisissez votre difficulté :",
@@ -859,7 +864,8 @@
     "lockCompleteHard": "Terminez d'abord un jeu Difficile",
     "lockRequiresPro": "Passez à Pro pour débloquer Journey",
     "lockDailyLimit": "Tentative quotidienne utilisée — revenez demain ou passez à Pro",
-    "upgrade": "Mettre à niveau"
+    "upgrade": "Mettre à niveau",
+    "helpUsTranslate": "Aidez-nous à traduire"
   },
   "de": {
     "chooseYourDifficulty": "Wähle deine Schwierigkeit:",
@@ -1003,7 +1009,8 @@
     "lockCompleteHard": "Schließe zuerst ein Schwieriges Spiel ab",
     "lockRequiresPro": "Upgrade auf Pro um Journey freizuschalten",
     "lockDailyLimit": "Tagesversuch verbraucht — komm morgen wieder oder upgrade auf Pro",
-    "upgrade": "Upgrade"
+    "upgrade": "Upgrade",
+    "helpUsTranslate": "Hilf uns beim Übersetzen"
   },
   "nl": {
     "chooseYourDifficulty": "Kies je moeilijkheidsgraad:",
@@ -1147,7 +1154,8 @@
     "lockCompleteHard": "Voltooi eerst een Moeilijk spel",
     "lockRequiresPro": "Upgrade naar Pro om Journey te ontgrendelen",
     "lockDailyLimit": "Dagelijkse poging gebruikt — kom morgen terug of upgrade naar Pro",
-    "upgrade": "Upgraden"
+    "upgrade": "Upgraden",
+    "helpUsTranslate": "Help ons vertalen"
   },
   "pt": {
     "chooseYourDifficulty": "Escolha sua dificuldade:",
@@ -1291,7 +1299,8 @@
     "lockCompleteHard": "Complete primeiro um jogo Difícil",
     "lockRequiresPro": "Atualize para Pro para desbloquear Journey",
     "lockDailyLimit": "Tentativa diária usada — volte amanhã ou atualize para Pro",
-    "upgrade": "Atualizar"
+    "upgrade": "Atualizar",
+    "helpUsTranslate": "Ajude-nos a traduzir"
   },
   "ja": {
     "chooseYourDifficulty": "難易度を選んでください：",
@@ -1434,7 +1443,8 @@
     "lockCompleteMedium": "まずMediumゲームをクリアしてください",
     "lockCompleteHard": "まずHardゲームをクリアしてください",
     "lockRequiresPro": "JourneyのためにProにアップグレード",
-    "lockDailyLimit": "本日の挑戦は終了 — 明日また来るか、Proにアップグレード"
+    "lockDailyLimit": "本日の挑戦は終了 — 明日また来るか、Proにアップグレード",
+    "helpUsTranslate": "翻訳を手伝う"
   },
   "ko": {
     "chooseYourDifficulty": "난이도를 선택하세요:",
@@ -1577,7 +1587,8 @@
     "lockCompleteMedium": "Medium 게임을 먼저 완료하세요",
     "lockCompleteHard": "Hard 게임을 먼저 완료하세요",
     "lockRequiresPro": "Journey 잠금 해제를 위해 Pro로 업그레이드",
-    "lockDailyLimit": "오늘 시도 완료 — 내일 다시 오거나 Pro로 업그레이드"
+    "lockDailyLimit": "오늘 시도 완료 — 내일 다시 오거나 Pro로 업그레이드",
+    "helpUsTranslate": "번역 도와주기"
   },
   "id": {
     "chooseYourDifficulty": "Pilih kesulitan Anda:",
@@ -1720,7 +1731,8 @@
     "lockCompleteMedium": "Selesaikan dulu satu game Sedang",
     "lockCompleteHard": "Selesaikan dulu satu game Sulit",
     "lockRequiresPro": "Upgrade ke Pro untuk membuka Journey",
-    "lockDailyLimit": "Percobaan harian digunakan — kembali besok atau upgrade ke Pro"
+    "lockDailyLimit": "Percobaan harian digunakan — kembali besok atau upgrade ke Pro",
+    "helpUsTranslate": "Bantu kami menerjemahkan"
   },
   "tr": {
     "chooseYourDifficulty": "Zorluk seviyenizi seçin:",
@@ -1863,7 +1875,8 @@
     "lockCompleteMedium": "Önce bir Orta oyun tamamla",
     "lockCompleteHard": "Önce bir Zor oyun tamamla",
     "lockRequiresPro": "Journey'i açmak için Pro'ya geç",
-    "lockDailyLimit": "Günlük deneme kullanıldı — yarın gel veya Proya geç"
+    "lockDailyLimit": "Günlük deneme kullanıldı — yarın gel veya Proya geç",
+    "helpUsTranslate": "Çeviriye yardım et"
   },
   "uk": {
     "chooseYourDifficulty": "Оберіть складність:",
@@ -2006,7 +2019,8 @@
     "lockCompleteMedium": "Спочатку завершіть Середню гру",
     "lockCompleteHard": "Спочатку завершіть Важку гру",
     "lockRequiresPro": "Оновіть до Pro, щоб розблокувати Journey",
-    "lockDailyLimit": "Денну спробу використано — поверніться завтра або оновіть до Pro"
+    "lockDailyLimit": "Денну спробу використано — поверніться завтра або оновіть до Pro",
+    "helpUsTranslate": "Допоможіть нам перекласти"
   },
   "ar": {
     "chooseYourDifficulty": "اختر مستوى الصعوبة:",
@@ -2149,7 +2163,8 @@
     "lockCompleteMedium": "أكمل لعبة متوسطة أولاً",
     "lockCompleteHard": "أكمل لعبة صعبة أولاً",
     "lockRequiresPro": "الترقية إلى Pro لفتح Journey",
-    "lockDailyLimit": "تم استخدام المحاولة اليومية — عُد غدًا أو الترقية إلى Pro"
+    "lockDailyLimit": "تم استخدام المحاولة اليومية — عُد غدًا أو الترقية إلى Pro",
+    "helpUsTranslate": "ساعدنا في الترجمة"
   },
   "bn": {
     "chooseYourDifficulty": "কঠিনতা বেছে নিন:",
@@ -2292,7 +2307,8 @@
     "lockCompleteMedium": "প্রথমে একটি মাঝারি গেম সম্পন্ন করুন",
     "lockCompleteHard": "প্রথমে একটি কঠিন গেম সম্পন্ন করুন",
     "lockRequiresPro": "Journey আনলক করতে Pro-তে আপগ্রেড করুন",
-    "lockDailyLimit": "আজকের সুযোগ শেষ — কাল ফিরে আসুন বা Pro-তে আপগ্রেড করুন"
+    "lockDailyLimit": "আজকের সুযোগ শেষ — কাল ফিরে আসুন বা Pro-তে আপগ্রেড করুন",
+    "helpUsTranslate": "অনুবাদে সাহায্য করুন"
   },
   "ur": {
     "chooseYourDifficulty": "مشکل کا انتخاب کریں:",
@@ -2435,7 +2451,8 @@
     "lockCompleteMedium": "پہلے ایک درمیانی گیم مکمل کریں",
     "lockCompleteHard": "پہلے ایک مشکل گیم مکمل کریں",
     "lockRequiresPro": "Journey کو کھولنے کے لیے Pro میں اپگریڈ کریں",
-    "lockDailyLimit": "آج کا موقع استعمال ہو گیا — کل واپس آئیں یا Pro میں اپگریڈ کریں"
+    "lockDailyLimit": "آج کا موقع استعمال ہو گیا — کل واپس آئیں یا Pro میں اپگریڈ کریں",
+    "helpUsTranslate": "ترجمہ میں مدد کریں"
   },
   "sv": {
     "chooseYourDifficulty": "Välj svårighetsgrad:",
@@ -2578,7 +2595,8 @@
     "lockCompleteMedium": "Slutför ett Medel spel först",
     "lockCompleteHard": "Slutför ett Svårt spel först",
     "lockRequiresPro": "Uppgradera till Pro för att låsa upp Journey",
-    "lockDailyLimit": "Dagligt försök använt — kom tillbaka imorgon eller uppgradera till Pro"
+    "lockDailyLimit": "Dagligt försök använt — kom tillbaka imorgon eller uppgradera till Pro",
+    "helpUsTranslate": "Hjälp oss att översätta"
   },
   "da": {
     "chooseYourDifficulty": "Vælg sværhedsgrad:",
@@ -2721,7 +2739,8 @@
     "lockCompleteMedium": "Gennemfør et Middel spil først",
     "lockCompleteHard": "Gennemfør et Svært spil først",
     "lockRequiresPro": "Opgrader til Pro for at låse Journey op",
-    "lockDailyLimit": "Daglige forsøg brugt — kom tilbage i morgen eller opgrader til Pro"
+    "lockDailyLimit": "Daglige forsøg brugt — kom tilbage i morgen eller opgrader til Pro",
+    "helpUsTranslate": "Hjælp os med at oversætte"
   },
   "no": {
     "chooseYourDifficulty": "Velg vanskelighetsgrad:",
@@ -2864,7 +2883,8 @@
     "lockCompleteMedium": "Fullfør et Middels spill først",
     "lockCompleteHard": "Fullfør et Vanskelig spill først",
     "lockRequiresPro": "Oppgrader til Pro for å låse opp Journey",
-    "lockDailyLimit": "Dagens forsøk brukt — kom tilbake i morgen eller oppgrader til Pro"
+    "lockDailyLimit": "Dagens forsøk brukt — kom tilbake i morgen eller oppgrader til Pro",
+    "helpUsTranslate": "Hjelp oss å oversette"
   },
   "pl": {
     "chooseYourDifficulty": "Wybierz poziom trudności:",
@@ -3007,7 +3027,8 @@
     "lockCompleteMedium": "Ukończ najpierw grę na Średnim poziomie",
     "lockCompleteHard": "Ukończ najpierw grę na Trudnym poziomie",
     "lockRequiresPro": "Ulepsz do Pro, aby odblokować Journey",
-    "lockDailyLimit": "Dzienna próba wykorzystana — wróć jutro lub ulepsz do Pro"
+    "lockDailyLimit": "Dzienna próba wykorzystana — wróć jutro lub ulepsz do Pro",
+    "helpUsTranslate": "Pomóż nam przetłumaczyć"
   },
   "it": {
     "chooseYourDifficulty": "Scegli la difficoltà:",
@@ -3150,7 +3171,8 @@
     "lockCompleteMedium": "Completa prima un gioco Medio",
     "lockCompleteHard": "Completa prima un gioco Difficile",
     "lockRequiresPro": "Passa a Pro per sbloccare Journey",
-    "lockDailyLimit": "Tentativo giornaliero usato — torna domani o passa a Pro"
+    "lockDailyLimit": "Tentativo giornaliero usato — torna domani o passa a Pro",
+    "helpUsTranslate": "Aiutaci a tradurre"
   },
   "sw": {
     "chooseYourDifficulty": "Chagua kiwango cha ugumu:",
@@ -3294,7 +3316,8 @@
     "lockCompleteHard": "Kamilisha mchezo wa Ngumu kwanza",
     "lockRequiresPro": "Panda ngazi hadi Pro ili kufungua Safari",
     "lockDailyLimit": "Jaribio la leo limetumika — rudi kesho au panda ngazi hadi Pro",
-    "upgrade": "Panda Ngazi"
+    "upgrade": "Panda Ngazi",
+    "helpUsTranslate": "Tusaidie kutafsiri"
   },
   "zu": {
     "chooseYourDifficulty": "Khetha inqanaba lokuqina:",
@@ -3438,7 +3461,8 @@
     "lockCompleteHard": "Qeda umchezo onzima kuqala",
     "lockRequiresPro": "Phakami kuya ku-Pro ukuvula i-Uhambo",
     "lockDailyLimit": "Ukuzama kwansuku zonke kusetshenzisiwe — buya kusasa noma phakami kuya ku-Pro",
-    "upgrade": "Phakamisa"
+    "upgrade": "Phakamisa",
+    "helpUsTranslate": "Siza ukuhumusha"
   },
   "xh": {
     "chooseYourDifficulty": "Khetha inqanaba lobunyulu:",
@@ -3582,6 +3606,7 @@
     "lockCompleteHard": "Gqiba umnyhadala onzima kuqala",
     "lockRequiresPro": "Phakamela ku-Pro ukuvula uHambo",
     "lockDailyLimit": "Ukuzama kwosuku kusetyenzisiwe — buya ngomso okanye phakamela ku-Pro",
-    "upgrade": "Phakamela"
+    "upgrade": "Phakamela",
+    "helpUsTranslate": "Sinceda ukuguqulwa"
   }
 }
