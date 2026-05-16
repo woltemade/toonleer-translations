@@ -16,6 +16,29 @@ At build time, Toonleer fetches this file and merges any improvements into the a
 
 You don't need to include every key. Only include the keys you're improving — missing keys fall back to the built-in translations.
 
+### From the command line
+
+```bash
+# Clone your fork
+git clone https://github.com/YOUR_USERNAME/toonleer-translations.git
+cd toonleer-translations
+
+# Create a branch for your change
+git checkout -b fix/swahili-practice-label
+
+# Edit translations.json, then commit
+git add translations.json
+git commit -m "Fix Swahili practice label"
+
+# Push your branch
+git push -u origin fix/swahili-practice-label
+
+# Open a pull request (requires GitHub CLI — https://cli.github.com)
+gh pr create --title "Fix Swahili practice label" --body "Corrected practice key translation."
+```
+
+If you don't have the GitHub CLI, push the branch and GitHub will show a **"Compare & pull request"** button when you visit the repo.
+
 ---
 
 ## File format
