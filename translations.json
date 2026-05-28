@@ -443,9 +443,9 @@
     "copiedToClipboard": "Gekopieer!",
     "retry": "Probeer Weer",
     "nextToonleerIn": "Volgende Toonleer:",
-    "heroHeadline": "Kan jy jou pad terug bereken?",
+    "heroHeadline": "Kan jy jou weg terug bereken?",
     "heroSubtitle": "Los wiskundige bewerkings teen die klok op om die beginnommer te bereik!",
-    "todayChallengeExpiresIn": "Vandag se uitdaging verloop oor",
+    "todayChallengeExpiresIn": "Vandag se uitdaging verval oor",
     "startToday": "Begin Vandag",
     "startTodaysChallenge": "Begin Vandag se Uitdaging",
     "whyKidsLove": "Hoekom hou kinders van Toonleer",
@@ -838,7 +838,8 @@
     "csEasyStars": "Maklike Sterre",
     "gsComingSoon": "Binnekort beskikbaar!",
     "gsJoinGroup": "Sluit 'n Groep",
-    "gsCreateGroup": "Skep 'n Groep"
+    "gsCreateGroup": "Skep 'n Groep",
+    "roleEnthusiastDesc": "Ek wil net familie, vriende en volgelinge uitdaag."
   },
   "zh": {
     "chooseYourDifficulty": "选择难度：",
@@ -1261,7 +1262,23 @@
     "csEasyStars": "简单星星",
     "gsComingSoon": "即将推出！",
     "gsJoinGroup": "加入小组",
-    "gsCreateGroup": "创建小组"
+    "gsCreateGroup": "创建小组",
+    "lbConfirmLeave": "确定要离开 {title} 吗？你可以使用邀请码重新加入。",
+    "lbDeleteBody": "删除此排行榜将永久移除它并踢出所有成员。",
+    "lbShareFriendDesc": "打开你链接的人可以向你发送好友请求。",
+    "lbConfirmRemoveFriend": "确定要将 {username} 从好友列表中删除吗？",
+    "lbEnterCodeDesc": "输入邀请码或自定义码来查找排行榜。",
+    "lbLocationDesc": "我们会显示此位置附近的现有排行榜，以避免重复。",
+    "lbExistNearYouDesc": "这些排行榜在你附近已存在。加入其中一个，或创建新的。",
+    "profileSchoolDescription": "创建学校资料以追踪学生进度并管理排行榜。",
+    "profileChooseProPlan": "选择专业计划——个人、家庭或早鸟终身访问。",
+    "profileSubscriptionActive": "{plan}订阅有效。所有专业功能已解锁。",
+    "profileOneTimePurchase": "这是一次性购买，无需账单管理。",
+    "qrScanDescription": "扫描二维码，在其他设备上以此账户登录。",
+    "roleStudentDesc": "我还在上学，想加入我学校的排行榜。",
+    "roleEnthusiastDesc": "我只想与家人、朋友和粉丝进行挑战。",
+    "uiUsernameHint": "用户名只能包含字母、数字和下划线（3-30个字符）",
+    "uiUsernamePattern": "用户名只能包含字母、数字和下划线"
   },
   "hi": {
     "chooseYourDifficulty": "कठिनाई चुनें:",
@@ -2093,7 +2110,8 @@
     "csEasyStars": "Estrellas Fáciles",
     "gsComingSoon": "¡Próximamente!",
     "gsJoinGroup": "Unirse a un Grupo",
-    "gsCreateGroup": "Crear un Grupo"
+    "gsCreateGroup": "Crear un Grupo",
+    "roleEnthusiastDesc": "Solo quiero desafiar a familia, amigos y seguidores."
   },
   "fr": {
     "chooseYourDifficulty": "Choisissez votre difficulté :",
@@ -3335,7 +3353,8 @@
     "csEasyStars": "Makkelijke Sterren",
     "gsComingSoon": "Binnenkort beschikbaar!",
     "gsJoinGroup": "Lid worden van een Groep",
-    "gsCreateGroup": "Een Groep aanmaken"
+    "gsCreateGroup": "Een Groep aanmaken",
+    "roleEnthusiastDesc": "Ik wil gewoon familie, vrienden en volgers uitdagen."
   },
   "pt": {
     "chooseYourDifficulty": "Escolha sua dificuldade:",
@@ -3749,7 +3768,8 @@
     "csEasyStars": "Estrelas Fáceis",
     "gsComingSoon": "Em breve!",
     "gsJoinGroup": "Entrar em um Grupo",
-    "gsCreateGroup": "Criar um Grupo"
+    "gsCreateGroup": "Criar um Grupo",
+    "roleEnthusiastDesc": "Só quero desafiar família, amigos e seguidores."
   },
   "ja": {
     "chooseYourDifficulty": "難易度を選んでください：",
@@ -4168,7 +4188,10 @@
     "csEasyStars": "簡単な星",
     "gsComingSoon": "近日公開！",
     "gsJoinGroup": "グループに参加",
-    "gsCreateGroup": "グループを作成"
+    "gsCreateGroup": "グループを作成",
+    "lbConfirmRemoveFriend": "{username} を友達から削除してもよろしいですか？",
+    "profileOneTimePurchase": "これは一回払いの購入です。請求管理は不要です。",
+    "roleEnthusiastDesc": "家族、友人、フォロワーに挑戦したいだけです。"
   },
   "ko": {
     "chooseYourDifficulty": "난이도를 선택하세요:",
@@ -4590,7 +4613,13 @@
     "csEasyStars": "쉬운 별",
     "gsComingSoon": "곧 출시!",
     "gsJoinGroup": "그룹 참여",
-    "gsCreateGroup": "그룹 만들기"
+    "gsCreateGroup": "그룹 만들기",
+    "lbShareFriendDesc": "링크를 열면 누구나 친구 요청을 보낼 수 있습니다.",
+    "lbConfirmRemoveFriend": "{username}을(를) 친구에서 제거하시겠습니까?",
+    "lbEnterCodeDesc": "초대 코드나 맞춤 코드를 입력하여 리더보드를 찾으세요.",
+    "profileSubscriptionActive": "{plan} 구독 활성. 모든 프로 기능 사용 가능.",
+    "roleEnthusiastDesc": "가족, 친구, 팔로워에게 도전하고 싶습니다.",
+    "uiUsernamePattern": "사용자 이름에는 문자, 숫자, 밑줄만 사용할 수 있습니다"
   },
   "id": {
     "chooseYourDifficulty": "Pilih kesulitan Anda:",
@@ -5006,7 +5035,8 @@
     "csEasyStars": "Bintang Mudah",
     "gsComingSoon": "Segera hadir!",
     "gsJoinGroup": "Bergabung dengan Grup",
-    "gsCreateGroup": "Buat Grup"
+    "gsCreateGroup": "Buat Grup",
+    "lbConfirmRemoveFriend": "Yakin ingin menghapus {username} dari teman kamu?"
   },
   "tr": {
     "chooseYourDifficulty": "Zorluk seviyenizi seçin:",
@@ -5424,7 +5454,8 @@
     "csEasyStars": "Kolay Yıldızlar",
     "gsComingSoon": "Yakında!",
     "gsJoinGroup": "Bir Gruba Katıl",
-    "gsCreateGroup": "Grup Oluştur"
+    "gsCreateGroup": "Grup Oluştur",
+    "roleStudentDesc": "Hâlâ okuldayım ve okul sıralamama katılmak istiyorum."
   },
   "uk": {
     "chooseYourDifficulty": "Оберіть складність:",
@@ -5841,7 +5872,8 @@
     "csEasyStars": "Легкі Зірки",
     "gsComingSoon": "Незабаром!",
     "gsJoinGroup": "Приєднатися до Групи",
-    "gsCreateGroup": "Створити Групу"
+    "gsCreateGroup": "Створити Групу",
+    "roleStudentDesc": "Я ще в школі і хочу приєднатися до рейтингу своєї школи."
   },
   "ar": {
     "chooseYourDifficulty": "اختر مستوى الصعوبة:",
@@ -6262,7 +6294,13 @@
     "csEasyStars": "نجوم سهلة",
     "gsComingSoon": "قريباً!",
     "gsJoinGroup": "انضم إلى مجموعة",
-    "gsCreateGroup": "إنشاء مجموعة"
+    "gsCreateGroup": "إنشاء مجموعة",
+    "lbDeleteBody": "حذف لوحة المتصدرين هذه سيزيلها نهائياً ويُخرج جميع الأعضاء.",
+    "lbShareFriendDesc": "يمكن لأي شخص يفتح رابطك إرسال طلب صداقة.",
+    "lbConfirmRemoveFriend": "هل أنت متأكد من إزالة {username} من أصدقائك؟",
+    "profileSubscriptionActive": "اشتراك {plan} نشط. جميع ميزات برو مفعّلة.",
+    "profileOneTimePurchase": "هذا شراء لمرة واحدة. لا حاجة لإدارة الفواتير.",
+    "roleEnthusiastDesc": "أريد فقط تحدي الأسرة والأصدقاء والمتابعين."
   },
   "bn": {
     "chooseYourDifficulty": "কঠিনতা বেছে নিন:",
@@ -6683,7 +6721,8 @@
     "csEasyStars": "সহজ তারকা",
     "gsComingSoon": "শীঘ্রই আসছে!",
     "gsJoinGroup": "একটি গ্রুপে যোগ দিন",
-    "gsCreateGroup": "একটি গ্রুপ তৈরি করুন"
+    "gsCreateGroup": "একটি গ্রুপ তৈরি করুন",
+    "lbEnterCodeDesc": "লিডারবোর্ড খুঁজতে আমন্ত্রণ কোড বা কাস্টম কোড লিখুন।"
   },
   "ur": {
     "chooseYourDifficulty": "مشکل کا انتخاب کریں:",
@@ -7519,7 +7558,8 @@
     "csEasyStars": "Enkla Stjärnor",
     "gsComingSoon": "Kommer snart!",
     "gsJoinGroup": "Gå med i en Grupp",
-    "gsCreateGroup": "Skapa en Grupp"
+    "gsCreateGroup": "Skapa en Grupp",
+    "roleEnthusiastDesc": "Jag vill bara utmana familj, vänner och följare."
   },
   "da": {
     "chooseYourDifficulty": "Vælg sværhedsgrad:",
@@ -7936,7 +7976,8 @@
     "csEasyStars": "Nemme Stjerner",
     "gsComingSoon": "Kommer snart!",
     "gsJoinGroup": "Tilslut dig en Gruppe",
-    "gsCreateGroup": "Opret en Gruppe"
+    "gsCreateGroup": "Opret en Gruppe",
+    "roleEnthusiastDesc": "Jeg vil bare udfordre familie, venner og følgere."
   },
   "no": {
     "chooseYourDifficulty": "Velg vanskelighetsgrad:",
@@ -8352,7 +8393,8 @@
     "csEasyStars": "Enkle Stjerner",
     "gsComingSoon": "Kommer snart!",
     "gsJoinGroup": "Bli med i en Gruppe",
-    "gsCreateGroup": "Opprett en Gruppe"
+    "gsCreateGroup": "Opprett en Gruppe",
+    "roleEnthusiastDesc": "Jeg vil bare utfordre familie, venner og følgere."
   },
   "pl": {
     "chooseYourDifficulty": "Wybierz poziom trudności:",
@@ -9188,7 +9230,8 @@
     "csEasyStars": "Stelle Facili",
     "gsComingSoon": "Prossimamente!",
     "gsJoinGroup": "Unisciti a un Gruppo",
-    "gsCreateGroup": "Crea un Gruppo"
+    "gsCreateGroup": "Crea un Gruppo",
+    "roleEnthusiastDesc": "Voglio solo sfidare famiglia, amici e follower."
   },
   "sw": {
     "chooseYourDifficulty": "Chagua kiwango cha ugumu:",
@@ -9605,7 +9648,8 @@
     "csEasyStars": "Nyota Rahisi",
     "gsComingSoon": "Inakuja hivi karibuni!",
     "gsJoinGroup": "Jiunge na Kikundi",
-    "gsCreateGroup": "Unda Kikundi"
+    "gsCreateGroup": "Unda Kikundi",
+    "roleEnthusiastDesc": "Nataka tu kupinga familia, marafiki na wafuasi."
   },
   "zu": {
     "chooseYourDifficulty": "Khetha inqanaba lokuqina:",
