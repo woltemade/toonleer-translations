@@ -15,17 +15,20 @@ for (const lang of langs) {
   const blockEnd = src.indexOf("\n  },", langIdx);
   const block = src.slice(langIdx, blockEnd);
   appTrans[lang] = {};
-  // Match lines like:    key: "value",   — handles escaped quotes and curly braces
-  const re = /^    (\w+): "((?:[^"\\]|\\.)*)",?$/gm;
+  // Match single-line:   key: "value",
+  // AND multi-line:      key:\n      "value",
+  const re = /^    (\w+): "((?:[^"\\]|\\.)*)",?$|^    (\w+):\s*\n\s+"((?:[^"\\]|\\.)*)",?$/gm;
   let m;
   while ((m = re.exec(block)) !== null) {
+    const key = m[1] || m[3];
+    const raw = m[2] !== undefined ? m[2] : m[4];
     // Unescape JS string escapes
-    const val = m[2]
+    const val = raw
       .replace(/\\"/g, '"')
       .replace(/\\n/g, "\n")
       .replace(/\\t/g, "\t")
       .replace(/\\\\/g, "\\");
-    appTrans[lang][m[1]] = val;
+    appTrans[lang][key] = val;
   }
 }
 
