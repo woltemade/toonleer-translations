@@ -60,5 +60,5 @@ for (const lang of langs) {
 console.log(`\nAdded ${added} new entries, updated ${updated} changed entries`);
 
 // Write back
-fs.writeFileSync(communityFile, JSON.stringify(community, null, 2), "utf8");
+fs.writeFileSync(communityFile, JSON.stringify(community, null, 2) + "\n", "utf8");
 console.log("Done — translations.json updated");
