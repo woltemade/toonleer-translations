@@ -449,7 +449,184 @@
     "uiUsernameHint": "Username can only contain letters, numbers, and underscores (3-30 characters)",
     "uiUsernamePattern": "Username can only contain letters, numbers, and underscores",
     "bdSchoolDesc": "If your school has a Toonleer profile, enter the invite code you received from your teacher. Or ask them to create one!",
-    "bdToastSetBirthdate": "Please set your birthdate before joining a school. We need this to group students by age."
+    "bdToastSetBirthdate": "Please set your birthdate before joining a school. We need this to group students by age.",
+    "lbCopyInviteLink": "Copy Invite Link",
+    "lbSchoolMaterials": "School Materials",
+    "lbSchoolRewards": "School Rewards",
+    "lbPartnerDashboard": "Partner",
+    "lbChooseRole": "About You",
+    "lbRolePrompt": "First, what best describes you? This helps us tailor your experience.",
+    "srTitle": "School Rewards",
+    "srIntro": "Turn voluntary Toonleer Pro subscriptions into an education-support fund for your school.",
+    "srNeedAdmin": "You need to be an admin of a school to use School Rewards. Create or manage your school first.",
+    "srTabRewards": "Rewards",
+    "srTabTerms": "Terms",
+    "srLoading": "Loading…",
+    "srPendingReview": "Your application is under review. We'll notify you once it's approved.",
+    "srRejectedNote": "Your previous application wasn't approved. You can review the terms and apply again.",
+    "srApplyTitle": "Join the School Rewards Program",
+    "srApplyIntro": "When supporters subscribe to Toonleer Pro through your school's code, your school earns 30% as an education-support fund — for learner enrichment such as field trips, math clubs, prizes, and digital learning resources. The fund is paid to the school entity. No teacher receives any personal payment, and participation never affects marks or rankings.",
+    "srNameLabel": "Your full name *",
+    "srNamePlaceholder": "e.g. Jane Smith",
+    "srRoleLabel": "Your role (optional)",
+    "srRolePlaceholder": "e.g. Principal, Treasurer",
+    "srAgreeCheckbox": "I am authorized to represent this school and accept that rewards are paid to the school entity for learner-enrichment use, that no teacher benefits personally, and that participation is optional and does not affect marks or rankings.",
+    "srApplyBtn": "Accept & Apply",
+    "srApplyingBtn": "Submitting…",
+    "srStatPending": "Pending",
+    "srStatPaid": "Paid out",
+    "srStatLifetime": "Lifetime",
+    "srStatSupporters": "Supporters (30d)",
+    "srShareTitle": "Your school's share link",
+    "srShareNote": "Share this with your school community. A portion of voluntary Pro revenue from supporters who use it returns to your school's learner-enrichment fund.",
+    "srRecentActivity": "Recent activity",
+    "srNoRewards": "No rewards yet.",
+    "srTermsRewardsH": "School Rewards",
+    "srRowRate": "Rate",
+    "srRowRateV": "30% of each payment",
+    "srRowCalc": "Calculated on",
+    "srRowCalcV": "Net payment (excl. taxes & fees)",
+    "srRowAttribution": "Attribution",
+    "srRowAttributionV": "Permanent (first supporter link wins)",
+    "srRowRefunds": "Refunds",
+    "srRowRefundsV": "Automatically deducted",
+    "srRowPaidTo": "Paid to",
+    "srRowPaidToV": "The school entity — never a teacher",
+    "srEarmarkNote": "Funds are an education-support contribution, earmarked for learner enrichment (field trips, math clubs, prizes, digital learning resources). Participation is optional and does not affect any learner's marks or rankings.",
+    "srPayoutsH": "Payouts",
+    "srRowSchedule": "Schedule",
+    "srRowScheduleV": "Monthly (first week)",
+    "srRowThreshold": "Minimum threshold",
+    "srRowThresholdV": "$20.00",
+    "srRowMethod": "Method",
+    "srRowMethodV": "Bank transfer to the school / PTA account",
+    "srPayoutNote": "Bank and entity details are collected when your fund first reaches the payout threshold — there's no paperwork required to start accruing.",
+    "srNotAllowedH": "Not allowed",
+    "srNotAllowed1": "Paying any portion to a teacher or individual",
+    "srNotAllowed2": "Requiring or pressuring families to subscribe",
+    "srNotAllowed3": "Tying paid upgrades to marks, rankings, or class standing",
+    "srNotAllowed4": "Spam or misleading promotion",
+    "srAgreementH": "Agreement",
+    "srAgreementAcceptedBy": "Accepted by",
+    "srOn": "on",
+    "srAgreementNone": "No agreement on file yet — accept the terms on the Rewards tab to apply.",
+    "srCheckoutLabel": "Got a school code? Support a school (optional)",
+    "srCheckoutPlaceholder": "Enter school code",
+    "srCheckoutApply": "Apply",
+    "srCheckoutApplying": "Applying…",
+    "srCheckoutThanks": "Supporting {school} — thank you!",
+    "srCheckoutThanksGeneric": "Supporting this school — thank you!",
+    "srCheckoutAlready": "You're already supporting a leaderboard or school.",
+    "srCheckoutTransparency": "Optional. A portion of voluntary Pro subscription revenue may support this school's learner-enrichment fund. Participation doesn't affect marks or rankings, and no teacher receives any personal payment.",
+    "pdBecomePartner": "Become a Partner",
+    "pdBecomeIntro": "Earn 30% commission on every payment from subscribers you bring in via your share link.",
+    "pdUnverifiedWarn": "Your group is not yet verified. Get your group verified to apply for partner status.",
+    "pdHowTo": "How to become a partner",
+    "pdStep1Link": "Confirm your email",
+    "pdStep1Rest": "and create a Social Group leaderboard",
+    "pdStep2": "Get your social accounts verified, in your leaderboard settings.",
+    "pdStep3": "Apply for partner status",
+    "pdSchoolBlurbH": "Run a school? Earn for your school instead",
+    "pdSchoolBlurbPre": "Schools don't earn personal commission. Through the",
+    "pdSchoolBlurbLink": "School Rewards program",
+    "pdSchoolBlurbPost": "a verified, approved school earns 30% of supporters' Pro subscriptions as an education-support fund for learner enrichment — paid to the school, never to a teacher.",
+    "pdGoToLeaderboards": "Go to Leaderboards",
+    "pdApplyTitle": "Apply for Partner Status",
+    "pdApplyIntro": "As an approved partner you'll earn 30% commission on every payment from subscribers who sign up via your share link. Commissions are tracked and paid out monthly.",
+    "pdApplying": "Applying…",
+    "pdPendingTitle": "Application Pending",
+    "pdPendingBody": "Your application is under review. We'll notify you once it's approved.",
+    "pdRejectedTitle": "Application Not Approved",
+    "pdRejectedBody": "Your partner application was not approved.",
+    "pdReapply": "Reapply",
+    "pdShareLink": "Your share link",
+    "pdCopied": "Copied!",
+    "pdCopy": "Copy",
+    "pdCancel": "Cancel",
+    "pdEdit": "Edit",
+    "pdBackupLinkPre": "Backup link",
+    "pdBackupLinkPost": "also works.",
+    "pdSaving": "Saving…",
+    "pdSave": "Save",
+    "pdCodeHelp": "4-20 characters: A-Z, 0-9, hyphens or underscores.",
+    "pdCodeTaken": "That code is already in use.",
+    "pdCodeCooldown": "You can only change your code once per 30 days.",
+    "pdCodeLength": "Code must be 4-20 characters.",
+    "pdCodeCharset": "Only A-Z, 0-9, hyphens and underscores allowed.",
+    "pdCodeReserved": "That code is reserved.",
+    "pdCodeEmpty": "Please enter a code.",
+    "pdClicks": "Clicks",
+    "pdLoading": "Loading…",
+    "pdNoClicks": "No clicks in this window yet.",
+    "pdTotalClicks": "Total clicks in window:",
+    "pdDownloadSvg": "Download SVG",
+    "pdCopyShortLabel": "Short intro",
+    "pdCopyShortText": "My kids have been doing their times tables with Toonleer — it actually works! Try it free: {url}",
+    "pdCopyParentLabel": "Parent recommendation",
+    "pdCopyParentText": "Looking for a fun way to get your child fluent in multiplication? Toonleer is our daily 5-minute habit. Start here: {url}",
+    "pdCopyTeacherLabel": "Teacher tip",
+    "pdCopyTeacherText": "I recommend Toonleer to parents who want their kids to build real fluency with times tables — not just memorise them. Free to try: {url}",
+    "pdTabStats": "Stats",
+    "pdTabMarketing": "Marketing",
+    "pdTabTerms": "Terms",
+    "pdDashTitle": "Partner Dashboard",
+    "pdAll": "All",
+    "pdJoinedViaLink": "Joined via link",
+    "pdWentPro": "Went Pro",
+    "pdPending": "Pending",
+    "pdLifetimeEarned": "Lifetime earned",
+    "pdNextPayout": "Next payout:",
+    "pdNextPayoutWhen": "First week of next month",
+    "pdMinNotReached": "— minimum $20.00 not yet reached",
+    "pdClickDataPerLb": "Click data is available per leaderboard — select one on the left to view.",
+    "pdMonthlyTrend": "Monthly trend",
+    "pdMonthlyBreakdown": "Monthly breakdown",
+    "pdColMonth": "Month",
+    "pdColPayments": "Payments",
+    "pdColCommission": "Commission",
+    "pdPayoutHistory": "Payout history",
+    "pdNoPayouts": "No payouts recorded yet.",
+    "pdPrintableH": "Printable Toonleer",
+    "pdPrintableDesc": "Publish a Toonleer puzzle in your newspaper, newsletter, or classroom handout. Readers scan your QR code, play the puzzle, and land directly on your leaderboard.",
+    "pdPrintableOpen": "Open Printable Toonleer",
+    "pdQrH": "Your QR code",
+    "pdQrDesc": "Print or share this QR code — it links directly to your partner URL so every scan is tracked.",
+    "pdReadyCopyH": "Ready-to-use copy",
+    "pdReadyCopyDesc": "Copy any of these messages to use on social media or in newsletters. Your partner link is already included.",
+    "pdBrandH": "Brand guidelines",
+    "pdBrand2": "Do not imply endorsement by schools or government bodies unless you have written permission.",
+    "pdBrand3": "Do not make earnings or results claims on behalf of Toonleer.",
+    "pdMarketingSelectLb": "Select a leaderboard on the left to manage its marketing assets.",
+    "pdTermsCommissionH": "Commission",
+    "pdTermsRate": "Rate",
+    "pdTermsRateV": "30% of each payment",
+    "pdTermsCalc": "Calculated on",
+    "pdTermsCalcV": "Net payment (excl. taxes & fees)",
+    "pdTermsAttribution": "Attribution",
+    "pdTermsAttributionV": "Permanent (first referral wins)",
+    "pdTermsRefunds": "Refunds",
+    "pdTermsRefundsV": "Automatically deducted",
+    "pdTermsAttributionNote": "Attribution is permanent. The first partner link a user clicks is the one that earns commission — later referrals to the same user do not overwrite it.",
+    "pdTermsPayoutsH": "Payouts",
+    "pdTermsSchedule": "Schedule",
+    "pdTermsScheduleV": "Monthly (first week)",
+    "pdTermsThreshold": "Minimum threshold",
+    "pdTermsMethod": "Method",
+    "pdTermsMethodV": "Bank transfer / PayPal",
+    "pdTermsAllowedH": "Allowed promotion",
+    "pdTermsAllowed1": "Social media posts, stories, and newsletters",
+    "pdTermsAllowed2": "YouTube videos and podcast mentions",
+    "pdTermsAllowed3": "Blog posts and review articles",
+    "pdTermsAllowed4": "Paid social ads (must disclose paid partnership)",
+    "pdTermsNotAllowedH": "Not allowed",
+    "pdTermsNotAllowed1": "Spam, unsolicited email, or cold outreach",
+    "pdTermsNotAllowed2": "Cookie stuffing or incentivised clicks",
+    "pdTermsNotAllowed4": "Creating fake reviews or misleading testimonials",
+    "pdTermsAgreePre": "By participating in the partner programme you agree to our full",
+    "pdTermsAgreeLink": "Partner Terms & Conditions",
+    "pdTermsAgreePost": ". Toonleer reserves the right to terminate a partnership for violations at any time.",
+    "pdBrand1": "Always use \"Toonleer\" (capital T, one word).",
+    "pdTermsNotAllowed3": "Bidding on \"Toonleer\" in paid search"
   },
   "af": {
     "chooseYourDifficulty": "Kies jou moeilikheidsgraad:",
@@ -901,7 +1078,9 @@
     "evCodeHintVerify": "Voer die 6-syfer verifikasiekode in wat na {email} gestuur is",
     "evEmailAlreadyDesc": "Hierdie e-pos is al by 'n ander rekening geregistreer.",
     "evLoginTooManyRequests": "Te veel aanmeldversoeke. Probeer asseblief later weer.",
-    "achEmptyStateDesc": "Voltooi spelle om prestasies te verdien en rekords te stel!"
+    "achEmptyStateDesc": "Voltooi spelle om prestasies te verdien en rekords te stel!",
+    "lbCopyInviteLink": "Kopieer Uitnodigingskakel",
+    "lbSchoolMaterials": "Skoolmateriaal"
   },
   "zh": {
     "chooseYourDifficulty": "选择难度：",
@@ -1352,7 +1531,9 @@
     "childNoChildrenYet": "还没有添加孩子。添加一个孩子账户，让他们可以用自己的分数玩游戏。",
     "childQRHint": "要在另一台设备上为孩子登录，请扫描二维码或在其设备上打开链接。链接10分钟后过期。",
     "bdSchoolDesc": "如果您的学校有 Toonleer 档案，请输入您从老师那里收到的邀请码。或者请他们创建一个！",
-    "bdToastSetBirthdate": "加入学校前请先设置您的出生日期。我们需要这个来按年龄分组学生。"
+    "bdToastSetBirthdate": "加入学校前请先设置您的出生日期。我们需要这个来按年龄分组学生。",
+    "lbCopyInviteLink": "复制邀请链接",
+    "lbSchoolMaterials": "学校材料"
   },
   "hi": {
     "chooseYourDifficulty": "कठिनाई चुनें:",
@@ -1803,7 +1984,9 @@
     "bdSchoolDesc": "यदि आपके स्कूल का Toonleer प्रोफ़ाइल है, तो अपने शिक्षक से प्राप्त आमंत्रण कोड दर्ज करें। या उनसे एक बनाने के लिए कहें!",
     "bdToastSetBirthdate": "स्कूल में शामिल होने से पहले कृपया अपनी जन्मतिथि निर्धारित करें। छात्रों को आयु के अनुसार समूहबद्ध करने के लिए हमें इसकी आवश्यकता है।",
     "evLoginTooManyRequests": "बहुत अधिक लॉगिन अनुरोध। कृपया बाद में पुनः प्रयास करें।",
-    "achEmptyStateDesc": "उपलब्धियां अर्जित करने और रिकॉर्ड बनाने के लिए गेम पूरे करें!"
+    "achEmptyStateDesc": "उपलब्धियां अर्जित करने और रिकॉर्ड बनाने के लिए गेम पूरे करें!",
+    "lbCopyInviteLink": "आमंत्रण लिंक कॉपी करें",
+    "lbSchoolMaterials": "स्कूल सामग्री"
   },
   "es": {
     "chooseYourDifficulty": "Elige tu dificultad:",
@@ -2255,7 +2438,9 @@
     "evCodeHintLogin": "Ingresa el código de inicio de sesión de 6 dígitos enviado a {email}",
     "evCodeHintVerify": "Ingresa el código de verificación de 6 dígitos enviado a {email}",
     "evLoginTooManyRequests": "Demasiadas solicitudes de inicio de sesión. Por favor inténtalo más tarde.",
-    "achEmptyStateDesc": "¡Completa juegos para ganar logros y establecer récords!"
+    "achEmptyStateDesc": "¡Completa juegos para ganar logros y establecer récords!",
+    "lbCopyInviteLink": "Copiar Enlace de Invitación",
+    "lbSchoolMaterials": "Materiales Escolares"
   },
   "fr": {
     "chooseYourDifficulty": "Choisissez votre difficulté :",
@@ -2707,7 +2892,9 @@
     "evCodeHintLogin": "Entrez le code de connexion à 6 chiffres envoyé à {email}",
     "evCodeHintVerify": "Entrez le code de vérification à 6 chiffres envoyé à {email}",
     "evLoginTooManyRequests": "Trop de tentatives de connexion. Veuillez réessayer plus tard.",
-    "achEmptyStateDesc": "Terminez des jeux pour gagner des succès et établir des records !"
+    "achEmptyStateDesc": "Terminez des jeux pour gagner des succès et établir des records !",
+    "lbCopyInviteLink": "Copier le Lien d'Invitation",
+    "lbSchoolMaterials": "Matériels Scolaires"
   },
   "de": {
     "chooseYourDifficulty": "Wähle deine Schwierigkeit:",
@@ -3159,7 +3346,9 @@
     "evEmailAlreadyDesc": "Diese E-Mail ist bereits bei einem anderen Konto registriert.",
     "evTooManyRequests": "Zu viele Anfragen. Bitte versuchen Sie es später noch einmal.",
     "evLoginTooManyRequests": "Zu viele Anmeldeversuche. Bitte versuchen Sie es später noch einmal.",
-    "achEmptyStateDesc": "Schließe Spiele ab, um Erfolge zu verdienen und Rekorde aufzustellen!"
+    "achEmptyStateDesc": "Schließe Spiele ab, um Erfolge zu verdienen und Rekorde aufzustellen!",
+    "lbCopyInviteLink": "Einladungslink kopieren",
+    "lbSchoolMaterials": "Schulmaterialien"
   },
   "nl": {
     "chooseYourDifficulty": "Kies je moeilijkheidsgraad:",
@@ -3611,7 +3800,9 @@
     "evCodeHintVerify": "Voer de 6-cijferige verificatiecode in die naar {email} is verzonden",
     "evEmailAlreadyDesc": "Dit e-mailadres is al geregistreerd bij een ander account.",
     "achEmptyStateDesc": "Voltooi spellen om prestaties te verdienen en records te vestigen!",
-    "achNoFiltersMatch": "Geen prestaties komen overeen met de geselecteerde filters."
+    "achNoFiltersMatch": "Geen prestaties komen overeen met de geselecteerde filters.",
+    "lbCopyInviteLink": "Kopieer Uitnodigingslink",
+    "lbSchoolMaterials": "Schoolmaterialen"
   },
   "pt": {
     "chooseYourDifficulty": "Escolha sua dificuldade:",
@@ -4063,7 +4254,9 @@
     "evTooManyRequests": "Muitas solicitações. Por favor tente novamente mais tarde.",
     "evLoginTooManyRequests": "Muitas solicitações de login. Por favor tente novamente mais tarde.",
     "achEmptyStateDesc": "Conclua jogos para ganhar conquistas e estabelecer recordes!",
-    "achNoFiltersMatch": "Nenhuma conquista corresponde aos filtros selecionados."
+    "achNoFiltersMatch": "Nenhuma conquista corresponde aos filtros selecionados.",
+    "lbCopyInviteLink": "Copiar Link de Convite",
+    "lbSchoolMaterials": "Materiais Escolares"
   },
   "ja": {
     "chooseYourDifficulty": "難易度を選んでください：",
@@ -4514,7 +4707,9 @@
     "bdToastSetBirthdate": "学校に参加する前に生年月日を設定してください。生徒を年齢別にグループ分けするために必要です。",
     "evEmailAlreadyDesc": "このメールアドレスは別のアカウントに登録されています。",
     "evNetworkError": "ネットワークエラーが発生しました。もう一度お試しください。",
-    "evLoginTooManyRequests": "ログインリクエストが多すぎます。後でもう一度お試しください。"
+    "evLoginTooManyRequests": "ログインリクエストが多すぎます。後でもう一度お試しください。",
+    "lbCopyInviteLink": "招待リンクをコピー",
+    "lbSchoolMaterials": "学校教材"
   },
   "ko": {
     "chooseYourDifficulty": "난이도를 선택하세요:",
@@ -4965,7 +5160,9 @@
     "uiUsernameHint": "사용자 이름에는 문자, 숫자, 밑줄만 사용할 수 있습니다 (3-30자)",
     "bdSchoolDesc": "학교에 Toonleer 프로필이 있다면, 선생님으로부터 받은 초대 코드를 입력하세요. 또는 선생님에게 만들어 달라고 요청하세요!",
     "bdToastSetBirthdate": "학교에 가입하기 전에 생년월일을 설정해 주세요. 학생을 나이별로 분류하기 위해 필요합니다.",
-    "evLoginTooManyRequests": "로그인 요청이 너무 많습니다. 나중에 다시 시도해 주세요."
+    "evLoginTooManyRequests": "로그인 요청이 너무 많습니다. 나중에 다시 시도해 주세요.",
+    "lbCopyInviteLink": "초대 링크 복사",
+    "lbSchoolMaterials": "학교 자료"
   },
   "id": {
     "chooseYourDifficulty": "Pilih kesulitan Anda:",
@@ -5416,7 +5613,9 @@
     "evCodeHintVerify": "Masukkan kode verifikasi 6 digit yang dikirim ke {email}",
     "evLoginTooManyRequests": "Terlalu banyak permintaan login. Silakan coba lagi nanti.",
     "achEmptyStateDesc": "Selesaikan permainan untuk mendapatkan pencapaian dan mencetak rekor!",
-    "achNoFiltersMatch": "Tidak ada pencapaian yang cocok dengan filter yang dipilih."
+    "achNoFiltersMatch": "Tidak ada pencapaian yang cocok dengan filter yang dipilih.",
+    "lbCopyInviteLink": "Salin Tautan Undangan",
+    "lbSchoolMaterials": "Materi Sekolah"
   },
   "tr": {
     "chooseYourDifficulty": "Zorluk seviyenizi seçin:",
@@ -5867,7 +6066,9 @@
     "bdToastSetBirthdate": "Bir okula katılmadan önce lütfen doğum tarihinizi belirleyin. Öğrencileri yaşa göre gruplamak için buna ihtiyacımız var.",
     "evCodeHintVerify": "{email} adresine gönderilen 6 haneli doğrulama kodunu girin",
     "evLoginTooManyRequests": "Çok fazla giriş denemesi. Lütfen daha sonra tekrar deneyin.",
-    "achEmptyStateDesc": "Başarılar kazanmak ve rekorlar kırmak için oyunları tamamlayın!"
+    "achEmptyStateDesc": "Başarılar kazanmak ve rekorlar kırmak için oyunları tamamlayın!",
+    "lbCopyInviteLink": "Davet Bağlantısını Kopyala",
+    "lbSchoolMaterials": "Okul Materyalleri"
   },
   "uk": {
     "chooseYourDifficulty": "Оберіть складність:",
@@ -6318,7 +6519,9 @@
     "evCodeHintVerify": "Введіть 6-значний код підтвердження, надісланий на {email}",
     "evEmailAlreadyDesc": "Ця електронна адреса вже зареєстрована в іншому обліковому записі.",
     "evLoginTooManyRequests": "Занадто багато спроб входу. Будь ласка, спробуйте пізніше.",
-    "achEmptyStateDesc": "Завершуйте ігри, щоб отримувати досягнення та встановлювати рекорди!"
+    "achEmptyStateDesc": "Завершуйте ігри, щоб отримувати досягнення та встановлювати рекорди!",
+    "lbCopyInviteLink": "Копіювати посилання для запрошення",
+    "lbSchoolMaterials": "Шкільні матеріали"
   },
   "ar": {
     "chooseYourDifficulty": "اختر مستوى الصعوبة:",
@@ -6769,7 +6972,9 @@
     "bdSchoolDesc": "إذا كانت مدرستك لديها ملف Toonleer، أدخل رمز الدعوة الذي تلقيته من معلمك. أو اطلب منه إنشاء واحد!",
     "bdToastSetBirthdate": "يرجى تحديد تاريخ ميلادك قبل الانضمام إلى مدرسة. نحتاج هذا لتجميع الطلاب حسب العمر.",
     "evCodeHintLogin": "أدخل رمز تسجيل الدخول المكون من 6 أرقام المرسل إلى {email}",
-    "evLoginTooManyRequests": "طلبات تسجيل دخول كثيرة جداً. يرجى المحاولة مرة أخرى لاحقاً."
+    "evLoginTooManyRequests": "طلبات تسجيل دخول كثيرة جداً. يرجى المحاولة مرة أخرى لاحقاً.",
+    "lbCopyInviteLink": "نسخ رابط الدعوة",
+    "lbSchoolMaterials": "مواد المدرسة"
   },
   "bn": {
     "chooseYourDifficulty": "কঠিনতা বেছে নিন:",
@@ -7220,7 +7425,9 @@
     "uiUsernameHint": "ব্যবহারকারীর নামে শুধুমাত্র অক্ষর, সংখ্যা এবং আন্ডারস্কোর থাকতে পারে (৩-৩০ অক্ষর)",
     "uiUsernamePattern": "ব্যবহারকারীর নামে শুধুমাত্র অক্ষর, সংখ্যা এবং আন্ডারস্কোর থাকতে পারে",
     "bdSchoolDesc": "আপনার স্কুলের যদি Toonleer প্রোফাইল থাকে, আপনার শিক্ষকের কাছ থেকে পাওয়া আমন্ত্রণ কোড লিখুন। অথবা তাদের একটি তৈরি করতে বলুন!",
-    "bdToastSetBirthdate": "স্কুলে যোগ দেওয়ার আগে আপনার জন্ম তারিখ সেট করুন। বয়স অনুযায়ী শিক্ষার্থীদের দলে ভাগ করতে এটি প্রয়োজন।"
+    "bdToastSetBirthdate": "স্কুলে যোগ দেওয়ার আগে আপনার জন্ম তারিখ সেট করুন। বয়স অনুযায়ী শিক্ষার্থীদের দলে ভাগ করতে এটি প্রয়োজন।",
+    "lbCopyInviteLink": "আমন্ত্রণ লিঙ্ক কপি করুন",
+    "lbSchoolMaterials": "স্কুল সামগ্রী"
   },
   "ur": {
     "chooseYourDifficulty": "مشکل کا انتخاب کریں:",
@@ -7671,7 +7878,9 @@
     "bdToastSetBirthdate": "اسکول میں شامل ہونے سے پہلے اپنی تاریخ پیدائش ترتیب دیں۔ طلباء کو عمر کے مطابق گروپ کرنے کے لیے ہمیں اس کی ضرورت ہے۔",
     "evTooManyRequests": "بہت زیادہ درخواستیں۔ براہ کرم بعد میں دوبارہ کوشش کریں۔",
     "evLoginTooManyRequests": "بہت زیادہ لاگ ان درخواستیں۔ براہ کرم بعد میں دوبارہ کوشش کریں۔",
-    "achEmptyStateDesc": "کامیابیاں حاصل کرنے اور ریکارڈ قائم کرنے کے لیے گیمز مکمل کریں!"
+    "achEmptyStateDesc": "کامیابیاں حاصل کرنے اور ریکارڈ قائم کرنے کے لیے گیمز مکمل کریں!",
+    "lbCopyInviteLink": "دعوت نامہ لنک کاپی کریں",
+    "lbSchoolMaterials": "سکول کا سامان"
   },
   "sv": {
     "chooseYourDifficulty": "Välj svårighetsgrad:",
@@ -8122,7 +8331,9 @@
     "bdToastSetBirthdate": "Ange ditt födelsedatum innan du går med i en skola. Vi behöver det för att gruppera elever efter ålder.",
     "evCodeHintLogin": "Ange den 6-siffriga inloggningskoden som skickades till {email}",
     "evCodeHintVerify": "Ange den 6-siffriga verifieringskoden som skickades till {email}",
-    "achEmptyStateDesc": "Slutför spel för att tjäna prestationer och sätta rekord!"
+    "achEmptyStateDesc": "Slutför spel för att tjäna prestationer och sätta rekord!",
+    "lbCopyInviteLink": "Kopiera inbjudningslänk",
+    "lbSchoolMaterials": "Skolmaterial"
   },
   "da": {
     "chooseYourDifficulty": "Vælg sværhedsgrad:",
@@ -8573,7 +8784,9 @@
     "bdToastSetBirthdate": "Sæt venligst din fødselsdato, før du tilmelder dig en skole. Vi har brug for dette for at gruppere elever efter alder.",
     "evCodeHintVerify": "Indtast den 6-cifrede bekræftelseskode sendt til {email}",
     "evEmailAlreadyDesc": "Denne e-mail er allerede registreret på en anden konto.",
-    "achEmptyStateDesc": "Afslut spil for at optjene præstationer og sætte rekorder!"
+    "achEmptyStateDesc": "Afslut spil for at optjene præstationer og sætte rekorder!",
+    "lbCopyInviteLink": "Kopier invitationslink",
+    "lbSchoolMaterials": "Skolematerialer"
   },
   "no": {
     "chooseYourDifficulty": "Velg vanskelighetsgrad:",
@@ -9024,7 +9237,9 @@
     "evCodeHintLogin": "Skriv inn den 6-sifrede innloggingskoden sendt til {email}",
     "evCodeHintVerify": "Skriv inn den 6-sifrede bekreftelseskoden sendt til {email}",
     "evEmailAlreadyDesc": "Denne e-posten er allerede registrert på en annen konto.",
-    "achEmptyStateDesc": "Fullfør spill for å tjene prestasjoner og sette rekorder!"
+    "achEmptyStateDesc": "Fullfør spill for å tjene prestasjoner og sette rekorder!",
+    "lbCopyInviteLink": "Kopier invitasjonslenke",
+    "lbSchoolMaterials": "Skolematerialer"
   },
   "pl": {
     "chooseYourDifficulty": "Wybierz poziom trudności:",
@@ -9475,7 +9690,9 @@
     "bdToastSetBirthdate": "Ustaw datę urodzenia przed dołączeniem do szkoły. Potrzebujemy tego do grupowania uczniów według wieku.",
     "evEmailAlreadyDesc": "Ten adres e-mail jest już zarejestrowany na innym koncie.",
     "evLoginTooManyRequests": "Zbyt wiele prób logowania. Spróbuj ponownie później.",
-    "achEmptyStateDesc": "Ukończ gry, aby zdobywać osiągnięcia i ustanawiać rekordy!"
+    "achEmptyStateDesc": "Ukończ gry, aby zdobywać osiągnięcia i ustanawiać rekordy!",
+    "lbCopyInviteLink": "Kopiuj link zaproszenia",
+    "lbSchoolMaterials": "Materiały szkolne"
   },
   "it": {
     "chooseYourDifficulty": "Scegli la difficoltà:",
@@ -9926,7 +10143,9 @@
     "evCodeHintLogin": "Inserisci il codice di accesso a 6 cifre inviato a {email}",
     "evCodeHintVerify": "Inserisci il codice di verifica a 6 cifre inviato a {email}",
     "evLoginTooManyRequests": "Troppi tentativi di accesso. Per favore riprova più tardi.",
-    "achEmptyStateDesc": "Completa le partite per guadagnare traguardi e stabilire record!"
+    "achEmptyStateDesc": "Completa le partite per guadagnare traguardi e stabilire record!",
+    "lbCopyInviteLink": "Copia link di invito",
+    "lbSchoolMaterials": "Materiali scolastici"
   },
   "sw": {
     "chooseYourDifficulty": "Chagua kiwango cha ugumu:",
@@ -10378,7 +10597,9 @@
     "evCodeHintVerify": "Ingiza msimbo wa uthibitisho wa tarakimu 6 uliotumwa kwa {email}",
     "evEmailAlreadyDesc": "Barua pepe hii imesajiliwa tayari kwenye akaunti nyingine.",
     "evLoginTooManyRequests": "Maombi mengi ya kuingia. Tafadhali jaribu tena baadaye.",
-    "achNoFiltersMatch": "Hakuna mafanikio yanayolingana na vichujio vilivyochaguliwa."
+    "achNoFiltersMatch": "Hakuna mafanikio yanayolingana na vichujio vilivyochaguliwa.",
+    "lbCopyInviteLink": "Nakili Kiungo cha Mwaliko",
+    "lbSchoolMaterials": "Nyenzo za Shule"
   },
   "zu": {
     "chooseYourDifficulty": "Khetha inqanaba lokuqina:",
@@ -10830,7 +11051,9 @@
     "evCodeHintLogin": "Faka ikhodi yokungena enezinombolo ezi-6 ethunyiwe ku-{email}",
     "evCodeHintVerify": "Faka ikhodi yokuqinisekisa enezinombolo ezi-6 ethunyiwe ku-{email}",
     "evTooManyRequests": "Izicelo eziningi kakhulu. Sicela uzame futhi emuva kwesikhathi.",
-    "evLoginTooManyRequests": "Izicelo zokungena eziningi kakhulu. Sicela uzame futhi emuva kwesikhathi."
+    "evLoginTooManyRequests": "Izicelo zokungena eziningi kakhulu. Sicela uzame futhi emuva kwesikhathi.",
+    "lbCopyInviteLink": "Kopisha Isixhumanisi Sesicelelo",
+    "lbSchoolMaterials": "Izinto Zeskoli"
   },
   "xh": {
     "chooseYourDifficulty": "Khetha inqanaba lobunyulu:",
@@ -11282,6 +11505,8 @@
     "evTooManyRequests": "Izicelo ezininzi kakhulu. Nceda uzame kwakhona emva kwethuba.",
     "evLoginTooManyRequests": "Izicelo ze-login ezininzi kakhulu. Nceda uzame kwakhona emva kwethuba.",
     "achEmptyStateDesc": "Gqiba imidlalo ukufumana impumelelo nokubetha irekhodi!",
-    "achNoFiltersMatch": "Akukho mpumelelo ihambelana nezi zihlungi zikhethiweyo."
+    "achNoFiltersMatch": "Akukho mpumelelo ihambelana nezi zihlungi zikhethiweyo.",
+    "lbCopyInviteLink": "Kopisha Isixhobo Sokumema",
+    "lbSchoolMaterials": "Izinto Zesikole"
   }
 }
