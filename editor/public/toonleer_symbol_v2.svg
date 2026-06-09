@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 135">
+  <!-- white cell fills (drawn first, behind strokes) -->
+  <rect x="60" y="5"  width="25" height="125" fill="#ffffff"/>
+  <rect x="35" y="30" width="25" height="75"  fill="#ffffff"/>
+  <rect x="10" y="55" width="25" height="25"  fill="#ffffff"/>
+  <!-- solid leer column -->
+  <rect x="85" y="5"  width="25" height="125" fill="#000000"/>
+  <!-- outline paths -->
+  <path d="M60,5 L60,130 L110,130 L110,5 Z"
+        stroke="#000000" stroke-width="5" fill="none"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110,30 L35,30 L35,105 L110,105"
+        stroke="#000000" stroke-width="5" fill="none"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110,55 L10,55 L10,80 L110,80"
+        stroke="#000000" stroke-width="5" fill="none"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60,30 L60,105"
+        stroke="#000000" stroke-width="5" fill="none"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M85,5 L85,130"
+        stroke="#000000" stroke-width="5" fill="none"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

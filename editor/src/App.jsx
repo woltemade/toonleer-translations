@@ -5,6 +5,7 @@ import LanguagePicker from "./components/LanguagePicker.jsx";
 import KeyRow from "./components/KeyRow.jsx";
 import Toolbar from "./components/Toolbar.jsx";
 import ReviewPanel from "./components/ReviewPanel.jsx";
+import BrandHeader from "./components/BrandHeader.jsx";
 
 export default function App() {
   const [languages, setLanguages] = useState([]);
@@ -54,7 +55,7 @@ export default function App() {
 
   return (
     <main className="max-w-6xl mx-auto p-6">
-      <h1 className="text-2xl font-bold mb-4">Toonleer Translations Editor</h1>
+      <BrandHeader />
       {error && <p className="text-red-600 mb-4">{error}</p>}
       <div className="mb-4">
         <LanguagePicker languages={languages} value={lang} onChange={setLang} />
