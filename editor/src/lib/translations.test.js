@@ -82,13 +82,20 @@ describe("filterRows", () => {
     const out = filterRows(rows, { query: "", onlyMissing: true }, {});
     expect(out.map((r) => r.key)).toEqual(["bye", "count"]);
   });
-  it("respects edits when computing untranslated", () => {
+  it("keeps an originally-missing row visible while you edit it", () => {
+    // Editing a missing row must NOT filter it out mid-typing — the filter is
+    // based on the value as loaded, not the in-progress edit.
     const out = filterRows(rows, { query: "", onlyMissing: true }, { bye: "Adiós" });
-    expect(out.map((r) => r.key)).toEqual(["count"]);
+    expect(out.map((r) => r.key)).toEqual(["bye", "count"]);
   });
   it("searches key, English, and target text (case-insensitive)", () => {
     expect(filterRows(rows, { query: "hola", onlyMissing: false }, {}).map((r) => r.key)).toEqual(["greet"]);
     expect(filterRows(rows, { query: "COUNT", onlyMissing: false }, {}).map((r) => r.key)).toEqual(["count"]);
+  });
+  it("search matches in-progress edited text", () => {
+    expect(
+      filterRows(rows, { query: "adiós", onlyMissing: false }, { bye: "Adiós" }).map((r) => r.key),
+    ).toEqual(["bye"]);
   });
 });
 

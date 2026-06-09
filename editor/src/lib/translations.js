@@ -49,15 +49,19 @@ export function applyEdits(rows, edits) {
 }
 
 export function filterRows(rows, { query, onlyMissing }, edits) {
-  const effective = applyEdits(rows, edits);
   const q = query.trim().toLowerCase();
-  return effective.filter((row) => {
+  return rows.filter((row) => {
+    // "Untranslated only" is judged on the value as loaded (row.target), not the
+    // in-progress edit — otherwise a row vanishes the instant you start typing.
     if (onlyMissing && !isMissing(row.target)) return false;
     if (!q) return true;
+    const effectiveTarget = Object.prototype.hasOwnProperty.call(edits, row.key)
+      ? edits[row.key]
+      : row.target;
     return (
       row.key.toLowerCase().includes(q) ||
       (row.en ?? "").toLowerCase().includes(q) ||
-      (row.target ?? "").toLowerCase().includes(q)
+      (effectiveTarget ?? "").toLowerCase().includes(q)
     );
   });
 }

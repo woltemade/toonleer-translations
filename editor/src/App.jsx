@@ -94,7 +94,12 @@ export default function App() {
     Object.prototype.hasOwnProperty.call(edits, row.key) ? edits[row.key] : row.target;
 
   const missingCount = useMemo(
-    () => filterRows(rows, { query: "", onlyMissing: true }, edits).length,
+    () =>
+      rows.filter((r) =>
+        isMissing(
+          Object.prototype.hasOwnProperty.call(edits, r.key) ? edits[r.key] : r.target,
+        ),
+      ).length,
     [rows, edits],
   );
   const changedCount = useMemo(() => computeDiff(target || {}, edits).length, [target, edits]);
