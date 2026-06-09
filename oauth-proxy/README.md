@@ -2,6 +2,8 @@
 
 Stateless AWS Lambda (SST) that exchanges a GitHub OAuth `code` for an access token, so the translation editor (a static GitHub Pages site) can open PRs as the signed-in contributor without ever exposing the client secret in the browser.
 
+> **Requires Node.js ≥ 22.** SST 4.15+ misbehaves on Node 20 — the CLI hits an ESM load error (so `sst secret set`/`list` silently fail) and `sst deploy` can spin with runaway memory instead of deploying. Use Node 22+ (`node -v`).
+
 ## One-time setup
 
 ### 1. Create a GitHub OAuth App
