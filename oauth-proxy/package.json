@@ -1,0 +1,13 @@
+{
+  "name": "toonleer-translations-oauth",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "dev": "sst dev",
+    "deploy": "sst deploy"
+  },
+  "dependencies": {
+    "sst": "latest"
+  }
+}
