@@ -4,14 +4,14 @@ Community-maintained translation improvements for [Toonleer](https://toonleer.co
 
 ---
 
-At build time, Toonleer fetches this file and merges any improvements into the app. Your changes go live with the next deployment.
+At build time, Toonleer fetches the per-language files and merges any improvements into the app. Your changes go live with the next deployment.
 
 ---
 
 ## How to contribute
 
 1. **Fork** this repository
-2. **Edit** `translations.json` — fix or improve translations in any language
+2. **Edit** the relevant file under `translations/` — fix or improve translations in any language
 3. **Open a Pull Request** — describe what you changed and why
 
 You don't need to include every key. Only include the keys you're improving — missing keys fall back to the built-in translations.
@@ -26,8 +26,8 @@ cd toonleer-translations
 # Create a branch for your change
 git checkout -b fix/swahili-practice-label
 
-# Edit translations.json, then commit
-git add translations.json
+# Edit one language file, then commit
+git add translations/sw.json
 git commit -m "Fix Swahili practice label"
 
 # Push your branch
@@ -43,21 +43,22 @@ If you don't have the GitHub CLI, push the branch and GitHub will show a **"Comp
 
 ## File format
 
-`translations.json` contains all 25 supported languages. Each language is a key (ISO 639-1 code) mapping to an object of translation strings:
+Translations live in `translations/`, one file per language, named by ISO 639-1
+code: `translations/en.json`, `translations/sw.json`, etc. `translations/langs.json`
+lists the supported codes. `en.json` is the English reference — English is authored
+in the app (`src/data/translations/index.js`) and synced here, so edit the other
+languages.
+
+Each `<lang>.json` maps translation keys to strings:
 
 ```json
 {
-  "sw": {
-    "heroHeadline": "Je, unaweza kuhesabu njia yako ya kurudi?",
-    "practice": "Zoezi"
-  },
-  "zu": {
-    "heroHeadline": "Ungabaleka ngendlela yakho emuva?"
-  }
+  "heroHeadlineGradient": "calculate",
+  "practice": "Practice"
 }
 ```
 
-You can improve one key in one language, or a whole language block — whatever you have time for.
+You don't need every key — missing keys fall back to the built-in English baseline.
 
 ---
 
