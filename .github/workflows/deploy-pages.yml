@@ -37,6 +37,8 @@ jobs:
       - name: Copy translation data into the site
         run: cp -R translations editor/dist/translations
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: editor/dist
