@@ -1,4 +1,5 @@
 import { beginLogin } from "../auth/session.js";
+import GitHubIcon from "./GitHubIcon.jsx";
 
 export default function AuthBar({ login, onSignOut }) {
   return (
@@ -10,9 +11,10 @@ export default function AuthBar({ login, onSignOut }) {
         </>
       ) : (
         <button
-          className="bg-black text-white rounded px-3 py-1"
+          className="flex items-center gap-2 bg-black text-white rounded px-3 py-1"
           onClick={beginLogin}
         >
+          <GitHubIcon className="w-4 h-4" />
           Sign in with GitHub
         </button>
       )}

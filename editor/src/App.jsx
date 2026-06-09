@@ -8,6 +8,7 @@ import ReviewPanel from "./components/ReviewPanel.jsx";
 import BrandHeader from "./components/BrandHeader.jsx";
 import { Octokit } from "@octokit/rest";
 import AuthBar from "./components/AuthBar.jsx";
+import GitHubIcon from "./components/GitHubIcon.jsx";
 import { completeLoginFromUrl, getToken, isLoggedIn, logout } from "./auth/session.js";
 import { submitTranslationPR } from "./github/pr.js";
 import { REPO_OWNER, REPO_NAME, DEFAULT_BASE_BRANCH } from "./config.js";
@@ -141,6 +142,18 @@ export default function App() {
           />
         </>
       )}
+
+      <footer className="mt-12 pt-6 border-t flex justify-center">
+        <a
+          href="https://github.com/woltemade/toonleer-translations"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 text-sm text-gray-700 border rounded px-3 py-1.5 hover:bg-gray-50"
+        >
+          <GitHubIcon className="w-4 h-4" />
+          View in GitHub
+        </a>
+      </footer>
     </main>
   );
 }
