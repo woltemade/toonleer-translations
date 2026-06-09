@@ -1,6 +1,6 @@
 import { validateValue, isMissing } from "../lib/translations.js";
 
-export default function KeyRow({ row, value, onChange }) {
+export default function KeyRow({ row, value, onChange, onCommit }) {
   const { missingTokens, extraTokens } = validateValue(row.en, value);
   const hasIssue = missingTokens.length > 0 || extraTokens.length > 0;
   return (
@@ -17,6 +17,7 @@ export default function KeyRow({ row, value, onChange }) {
           rows={Math.max(1, Math.ceil((value?.length || 0) / 60))}
           value={value}
           onChange={(e) => onChange(row.key, e.target.value)}
+          onBlur={(e) => onCommit?.(row.key, e.target.value)}
         />
         {hasIssue && (
           <p className="text-xs text-red-600 mt-1">

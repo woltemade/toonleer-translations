@@ -48,12 +48,16 @@ export function applyEdits(rows, edits) {
   );
 }
 
-export function filterRows(rows, { query, onlyMissing }, edits) {
+export function filterRows(rows, { query, onlyMissing }, edits, committed = {}) {
   const q = query.trim().toLowerCase();
   return rows.filter((row) => {
-    // "Untranslated only" is judged on the value as loaded (row.target), not the
-    // in-progress edit — otherwise a row vanishes the instant you start typing.
-    if (onlyMissing && !isMissing(row.target)) return false;
+    // "Untranslated only" is judged on the committed value (updated on blur),
+    // falling back to the value as loaded — never the live keystroke — so a row
+    // doesn't vanish the instant you type, only once you move off it.
+    const committedTarget = Object.prototype.hasOwnProperty.call(committed, row.key)
+      ? committed[row.key]
+      : row.target;
+    if (onlyMissing && !isMissing(committedTarget)) return false;
     if (!q) return true;
     const effectiveTarget = Object.prototype.hasOwnProperty.call(edits, row.key)
       ? edits[row.key]

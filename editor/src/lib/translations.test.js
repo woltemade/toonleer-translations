@@ -84,9 +84,18 @@ describe("filterRows", () => {
   });
   it("keeps an originally-missing row visible while you edit it", () => {
     // Editing a missing row must NOT filter it out mid-typing — the filter is
-    // based on the value as loaded, not the in-progress edit.
+    // based on committed values (empty here), not the in-progress edit.
     const out = filterRows(rows, { query: "", onlyMissing: true }, { bye: "Adiós" });
     expect(out.map((r) => r.key)).toEqual(["bye", "count"]);
+  });
+  it("drops a row from untranslated-only once its edit is committed (on blur)", () => {
+    const out = filterRows(
+      rows,
+      { query: "", onlyMissing: true },
+      { bye: "Adiós" },
+      { bye: "Adiós" },
+    );
+    expect(out.map((r) => r.key)).toEqual(["count"]);
   });
   it("searches key, English, and target text (case-insensitive)", () => {
     expect(filterRows(rows, { query: "hola", onlyMissing: false }, {}).map((r) => r.key)).toEqual(["greet"]);

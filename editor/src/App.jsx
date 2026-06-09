@@ -19,6 +19,7 @@ export default function App() {
   const [lang, setLang] = useState("");
   const [target, setTarget] = useState(null);
   const [edits, setEdits] = useState({});
+  const [committed, setCommitted] = useState({});
   const [query, setQuery] = useState("");
   const [onlyMissing, setOnlyMissing] = useState(false);
   const [error, setError] = useState(null);
@@ -75,6 +76,7 @@ export default function App() {
   useEffect(() => {
     if (!lang) return;
     setEdits({});
+    setCommitted({});
     setTarget(null);
     setQuery("");
     setOnlyMissing(false);
@@ -84,11 +86,14 @@ export default function App() {
   }, [lang]);
 
   const onEdit = (key, value) => setEdits((prev) => ({ ...prev, [key]: value }));
+  // Commit on blur so the "untranslated only" filter re-evaluates the row only
+  // after you move off it — never mid-typing.
+  const onCommit = (key, value) => setCommitted((prev) => ({ ...prev, [key]: value }));
 
   const rows = useMemo(() => (en && target ? buildRows(en, target) : []), [en, target]);
   const visible = useMemo(
-    () => filterRows(rows, { query, onlyMissing }, edits),
-    [rows, query, onlyMissing, edits],
+    () => filterRows(rows, { query, onlyMissing }, edits, committed),
+    [rows, query, onlyMissing, edits, committed],
   );
   const valueFor = (row) =>
     Object.prototype.hasOwnProperty.call(edits, row.key) ? edits[row.key] : row.target;
@@ -134,7 +139,7 @@ export default function App() {
             </div>
             <div className="px-3">
               {visible.map((row) => (
-                <KeyRow key={row.key} row={row} value={valueFor(row)} onChange={onEdit} />
+                <KeyRow key={row.key} row={row} value={valueFor(row)} onChange={onEdit} onCommit={onCommit} />
               ))}
             </div>
           </div>
