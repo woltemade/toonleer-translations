@@ -6,6 +6,11 @@ import KeyRow from "./components/KeyRow.jsx";
 import Toolbar from "./components/Toolbar.jsx";
 import ReviewPanel from "./components/ReviewPanel.jsx";
 import BrandHeader from "./components/BrandHeader.jsx";
+import { Octokit } from "@octokit/rest";
+import AuthBar from "./components/AuthBar.jsx";
+import { completeLoginFromUrl, getToken, isLoggedIn, logout } from "./auth/session.js";
+import { submitTranslationPR } from "./github/pr.js";
+import { REPO_OWNER, REPO_NAME, DEFAULT_BASE_BRANCH } from "./config.js";
 
 export default function App() {
   const [languages, setLanguages] = useState([]);
@@ -16,6 +21,46 @@ export default function App() {
   const [query, setQuery] = useState("");
   const [onlyMissing, setOnlyMissing] = useState(false);
   const [error, setError] = useState(null);
+  const [login, setLogin] = useState(null);
+
+  useEffect(() => {
+    completeLoginFromUrl()
+      .then(() => {
+        if (isLoggedIn()) refreshLogin();
+      })
+      .catch((e) => setError(e.message));
+    if (isLoggedIn()) refreshLogin();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  const refreshLogin = async () => {
+    try {
+      const octokit = new Octokit({ auth: getToken() });
+      const { data } = await octokit.rest.users.getAuthenticated();
+      setLogin(data.login);
+    } catch {
+      logout();
+      setLogin(null);
+    }
+  };
+
+  const onSignOut = () => {
+    logout();
+    setLogin(null);
+  };
+
+  const onSubmit = ({ lang: l, content, changeCount }) => {
+    const octokit = new Octokit({ auth: getToken() });
+    return submitTranslationPR({
+      octokit,
+      owner: REPO_OWNER,
+      repo: REPO_NAME,
+      baseBranch: DEFAULT_BASE_BRANCH,
+      lang: l,
+      content,
+      changeCount,
+    });
+  };
 
   useEffect(() => {
     Promise.all([loadLanguages(), loadReference()])
@@ -55,7 +100,10 @@ export default function App() {
 
   return (
     <main className="max-w-6xl mx-auto p-6">
-      <BrandHeader />
+      <div className="flex items-start justify-between gap-4">
+        <BrandHeader />
+        <AuthBar login={login} onSignOut={onSignOut} />
+      </div>
       {error && <p className="text-red-600 mb-4">{error}</p>}
       <div className="mb-4">
         <LanguagePicker languages={languages} value={lang} onChange={setLang} />
@@ -84,7 +132,13 @@ export default function App() {
               ))}
             </div>
           </div>
-          <ReviewPanel lang={lang} target={target} edits={edits} />
+          <ReviewPanel
+            lang={lang}
+            target={target}
+            edits={edits}
+            canSubmit={Boolean(login)}
+            onSubmit={onSubmit}
+          />
         </>
       )}
     </main>
