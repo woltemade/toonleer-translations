@@ -562,5 +562,14 @@
   "pdBrand1": "Always use \"Toonleer\" (capital T, one word).",
   "pdTermsNotAllowed3": "Bidding on \"Toonleer\" in paid search",
   "pdIneligibleTitle": "Approved — Not Yet Commission-Eligible",
-  "pdIneligibleBody": "Your group is approved, but it isn't currently set up to earn commission. Commission eligibility is granted separately — please check back later or contact support."
+  "pdIneligibleBody": "Your group is approved, but it isn't currently set up to earn commission. Commission eligibility is granted separately — please check back later or contact support.",
+  "footerContact": "Contact",
+  "contactHeading": "Get in touch",
+  "contactSubjectLabel": "Subject",
+  "contactEmailLabel": "Your email (optional, so we can reply)",
+  "contactMessageLabel": "Message",
+  "contactSubmit": "Send message",
+  "contactSuccess": "Thanks! Your message has been sent.",
+  "contactError": "Something went wrong. Please try again later.",
+  "contactRateLimited": "You've recently sent a message. Please try again later."
 }
