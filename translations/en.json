@@ -571,5 +571,16 @@
   "contactSubmit": "Send message",
   "contactSuccess": "Thanks! Your message has been sent.",
   "contactError": "Something went wrong. Please try again later.",
-  "contactRateLimited": "You've recently sent a message. Please try again later."
+  "contactRateLimited": "You've recently sent a message. Please try again later.",
+  "lbRank": "Rank",
+  "lbToday": "Today",
+  "lbThisWeek": "This Week",
+  "lbAllTime": "All Time",
+  "partnerNoPlayersWeek": "No one has played yet this week.",
+  "partnerNoPlayersToday": "No one has played today's puzzle yet.",
+  "partnerOpenInApp": "Open leaderboard in app",
+  "lbManage": "Manage",
+  "partnerNotFoundTitle": "Leaderboard not found",
+  "partnerNotFoundBody": "This invite code doesn't match any leaderboard.",
+  "partnerBackHome": "Back to Toonleer"
 }
