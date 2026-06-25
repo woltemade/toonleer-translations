@@ -582,5 +582,8 @@
   "lbManage": "Manage",
   "partnerNotFoundTitle": "Leaderboard not found",
   "partnerNotFoundBody": "This invite code doesn't match any leaderboard.",
-  "partnerBackHome": "Back to Toonleer"
+  "partnerBackHome": "Back to Toonleer",
+  "copyResult": "Copy result",
+  "shareImage": "Share image",
+  "generatingImage": "Generating…"
 }
