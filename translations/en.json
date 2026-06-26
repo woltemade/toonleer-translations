@@ -585,5 +585,6 @@
   "partnerBackHome": "Back to Toonleer",
   "copyResult": "Copy result",
   "shareImage": "Share image",
-  "generatingImage": "Generating…"
+  "generatingImage": "Generating…",
+  "topPercentToday": "🔥 Top {percent}% today"
 }
