@@ -587,5 +587,20 @@
   "shareImage": "Share image",
   "generatingImage": "Generating…",
   "topPercentToday": "🔥 Top {percent}% today",
-  "shareVideo": "Share video"
+  "shareVideo": "Share video",
+  "shareYourHighlight": "Share your highlight",
+  "shareFormatTitle": "Share — {format}",
+  "chooseFormat": "Choose a format:",
+  "ratioVertical": "Vertical",
+  "ratioSquare": "Square",
+  "ratioHorizontal": "Horizontal",
+  "downloadShareVideo": "Download / Share Video",
+  "renderingVideo": "Rendering… {percent}%",
+  "videoNotSupported": "Your browser can't make videos yet — try Chrome, or use Share Image.",
+  "videoRenderError": "Something went wrong rendering the video.",
+  "trailerChallenge": "Challenge #{number}",
+  "trailerHook": "Can you beat my score?",
+  "trailerRowsUnit": "rows",
+  "trailerJoinLeaderboard": "Join my leaderboard!",
+  "trailerPlayDaily": "Play the daily challenge at:"
 }
