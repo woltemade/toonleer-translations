@@ -586,5 +586,6 @@
   "copyResult": "Copy result",
   "shareImage": "Share image",
   "generatingImage": "Generating…",
-  "topPercentToday": "🔥 Top {percent}% today"
+  "topPercentToday": "🔥 Top {percent}% today",
+  "shareVideo": "Share video"
 }
