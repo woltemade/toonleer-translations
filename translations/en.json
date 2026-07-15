@@ -605,5 +605,8 @@
   "trailerPlayDaily": "Play the daily challenge at:",
   "downloadImage": "Download image",
   "navMore": "More",
-  "navRecords": "Records"
+  "navRecords": "Records",
+  "lbSetUsernameTitle": "Choose Your Username",
+  "lbSetUsernameDesc": "This name will appear on the leaderboard. Keep the suggested one or pick your own.",
+  "lbSavingUsername": "Saving..."
 }
