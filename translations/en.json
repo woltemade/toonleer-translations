@@ -608,5 +608,7 @@
   "navRecords": "Records",
   "lbSetUsernameTitle": "Choose Your Username",
   "lbSetUsernameDesc": "This name will appear on the leaderboard. Keep the suggested one or pick your own.",
-  "lbSavingUsername": "Saving..."
+  "lbSavingUsername": "Saving...",
+  "lbSettings": "Settings",
+  "lbActions": "Actions"
 }
