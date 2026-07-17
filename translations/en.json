@@ -644,5 +644,9 @@
   "challengeBackToLeaderboards": "Back to leaderboards",
   "challengeNotFound": "Challenge not found.",
   "challengeRetrySubmit": "Retry submitting result",
-  "challengeRetentionNote": "Mini challenges are kept for two weeks, then removed."
+  "challengeRetentionNote": "Mini challenges are kept for two weeks, then removed.",
+  "challengeDeleteLabel": "Delete challenge",
+  "challengeDeleteConfirmTitle": "Delete this challenge?",
+  "challengeDeleteConfirmBody": "The challenge and its results are removed for everyone.",
+  "challengeDeleteBtn": "Delete"
 }
