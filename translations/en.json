@@ -648,5 +648,6 @@
   "challengeDeleteLabel": "Delete challenge",
   "challengeDeleteConfirmTitle": "Delete this challenge?",
   "challengeDeleteConfirmBody": "The challenge and its results are removed for everyone.",
-  "challengeDeleteBtn": "Delete"
+  "challengeDeleteBtn": "Delete",
+  "challengeCreating": "Creating..."
 }
