@@ -863,5 +863,17 @@
   "upgrade": "Upgrade",
   "videoNotSupported": "Your browser can't make videos yet — try Chrome, or use Share Image.",
   "videoRenderError": "Something went wrong rendering the video.",
-  "whyKidsLove": "Why kids love Toonleer"
+  "whyKidsLove": "Why kids love Toonleer",
+  "uiSaveSocialsFailed": "Failed to save social accounts",
+  "uiSocialPattern": "A handle can only contain letters, numbers, dots, hyphens and underscores",
+  "uiSocialTooLong": "That handle is too long",
+  "uiSave": "Save",
+  "uiSaving": "Saving…",
+  "profileSocials": "Social accounts",
+  "profileSocialsHint": "Add the accounts you want on your profile. Leave a field empty to remove it.",
+  "socialTiktok": "TikTok",
+  "socialInstagram": "Instagram",
+  "socialFacebook": "Facebook",
+  "socialTwitter": "Twitter / X",
+  "socialBluesky": "Bluesky"
 }
