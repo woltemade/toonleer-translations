@@ -620,6 +620,7 @@
   "profileEmailCaption": "",
   "profileEmailInvalid": "",
   "profileEmailTaken": "",
+  "profileEmailTooMany": "",
   "profileEmailUnverified": "",
   "profileEmailVerification": "Weryfikacja E-mail",
   "profileFamilyPro": "Rodzina Pro",

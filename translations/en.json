@@ -679,6 +679,7 @@
   "profileEmailCaption": "Email",
   "profileEmailInvalid": "Enter a valid email address",
   "profileEmailTaken": "That email is already linked to another account",
+  "profileEmailTooMany": "Too many attempts — try again in a few minutes",
   "profileEmailUnverified": "Email: not verified",
   "profileEmailVerification": "Email Verification",
   "profileFamilyPro": "Family Pro",

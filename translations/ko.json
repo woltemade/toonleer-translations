@@ -620,6 +620,7 @@
   "profileEmailCaption": "",
   "profileEmailInvalid": "",
   "profileEmailTaken": "",
+  "profileEmailTooMany": "",
   "profileEmailUnverified": "",
   "profileEmailVerification": "이메일 인증",
   "profileFamilyPro": "패밀리 프로",

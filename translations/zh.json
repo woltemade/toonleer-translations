@@ -620,6 +620,7 @@
   "profileEmailCaption": "",
   "profileEmailInvalid": "",
   "profileEmailTaken": "",
+  "profileEmailTooMany": "",
   "profileEmailUnverified": "",
   "profileEmailVerification": "电子邮件验证",
   "profileFamilyPro": "家庭专业版",
