@@ -308,7 +308,8 @@
   "lbCopyInviteLink": "Copy Invite Link",
   "lbCopyLink": "Copy link",
   "lbCountries": "Countries",
-  "lbCountriesSubtitle": "Every country, ranked by the XP its players have earned",
+  "lbCountriesKey": "Star score — Easy ×20, Medium ×100, Hard ×350, Journey ×1400",
+  "lbCountriesSubtitle": "Star score — Easy ×20, Medium ×100, Hard ×350, Journey ×1400",
   "lbCountry": "Country",
   "lbCreate": "Create",
   "lbCreateAnyway": "Create a new one",
@@ -425,6 +426,7 @@
   "lbSocialWebsite": "Website",
   "lbSocialWebsiteNote": "Also used to verify you by email domain.",
   "lbSocialYoutube": "YouTube",
+  "lbStarScore": "Star score",
   "lbSuccessRate": "Success Rate",
   "lbThisWeek": "This Week",
   "lbToday": "Today",
@@ -663,6 +665,7 @@
   "pdWentPro": "Went Pro",
   "perfect": "Perfect!",
   "ppBestsTitle": "Personal bests",
+  "ppLoadFailed": "We couldn't load this profile. Please try again.",
   "ppNoBests": "No personal bests yet",
   "ppNotFound": "We couldn't find that player",
   "practice": "Practice",
@@ -898,6 +901,5 @@
   "upgrade": "Upgrade",
   "videoNotSupported": "Your browser can't make videos yet — try Chrome, or use Share Image.",
   "videoRenderError": "Something went wrong rendering the video.",
-  "whyKidsLove": "Why kids love Toonleer",
-  "ppLoadFailed": "We couldn't load this profile. Please try again."
+  "whyKidsLove": "Why kids love Toonleer"
 }
