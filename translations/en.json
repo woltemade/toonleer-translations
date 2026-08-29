@@ -662,6 +662,9 @@
   "pdUnverifiedWarn": "Your group is not yet verified. Get your group verified to apply for partner status.",
   "pdWentPro": "Went Pro",
   "perfect": "Perfect!",
+  "ppBestsTitle": "Personal bests",
+  "ppNoBests": "No personal bests yet",
+  "ppNotFound": "We couldn't find that player",
   "practice": "Practice",
   "practiceAgain": "Practice Again",
   "practiceBody": "Great job practicing your multiplication and division skills! Why not challenge your friends to try Toonleer too?",
@@ -895,5 +898,6 @@
   "upgrade": "Upgrade",
   "videoNotSupported": "Your browser can't make videos yet — try Chrome, or use Share Image.",
   "videoRenderError": "Something went wrong rendering the video.",
-  "whyKidsLove": "Why kids love Toonleer"
+  "whyKidsLove": "Why kids love Toonleer",
+  "ppLoadFailed": "We couldn't load this profile. Please try again."
 }
