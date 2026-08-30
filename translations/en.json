@@ -902,5 +902,10 @@
   "videoNotSupported": "Your browser can't make videos yet — try Chrome, or use Share Image.",
   "videoRenderError": "Something went wrong rendering the video.",
   "whyKidsLove": "Why kids love Toonleer",
-  "loadMore": "Load more"
+  "loadMore": "Load more",
+  "profileDeleteAccount": "Delete account",
+  "profileDeleteAccountDesc": "Permanently remove your name, email and profile. Your game history stays, but nothing in it will point back to you.",
+  "profileDeleteWarning": "This cannot be undone.",
+  "profileDeleteBody": "Your username, name, email and socials are erased and your friends and leaderboard memberships are removed. You will start again as a new guest.",
+  "profileDeleteOwnsEntities": "Hand over or delete your leaderboards first"
 }
