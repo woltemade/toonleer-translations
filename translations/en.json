@@ -901,5 +901,6 @@
   "upgrade": "Upgrade",
   "videoNotSupported": "Your browser can't make videos yet — try Chrome, or use Share Image.",
   "videoRenderError": "Something went wrong rendering the video.",
-  "whyKidsLove": "Why kids love Toonleer"
+  "whyKidsLove": "Why kids love Toonleer",
+  "loadMore": "Load more"
 }
