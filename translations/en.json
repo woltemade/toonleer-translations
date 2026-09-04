@@ -536,7 +536,7 @@
   "onbLoginWithCode": "Enter a Code",
   "onbLoginWithEmail": "Log In with Email",
   "onbNext": "Next",
-  "onbOffline": "We couldn't reach the server just now — carry on anyway. You're %s for the moment; we'll finish setting up your account, and try to get you the name you picked, as soon as we can.",
+  "onbOffline": "You appear offline.",
   "onbPickCity": "Select a city",
   "onbPickCountry": "Select a country",
   "onbPickRegion": "Select a region",
