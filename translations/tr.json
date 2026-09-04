@@ -654,6 +654,7 @@
   "profileLifetimeAccess": "Ömür boyu erişim — tekrarlayan ücret yok.",
   "profileLoadingBilling": "Yükleniyor…",
   "profileLocation": "Konum",
+  "profileLocationCaption": "",
   "profileLogInAnotherDevice": "Başka bir cihazda giriş yap",
   "profileManageAccount": "Hesabı Yönet",
   "profileManageFamilyAccount": "Aile Hesabını Yönet",

@@ -654,6 +654,7 @@
   "profileLifetimeAccess": "终身访问——无循环收费。",
   "profileLoadingBilling": "加载中…",
   "profileLocation": "位置",
+  "profileLocationCaption": "",
   "profileLogInAnotherDevice": "在其他设备上登录",
   "profileManageAccount": "管理账户",
   "profileManageFamilyAccount": "管理家庭账户",
