@@ -530,6 +530,7 @@
   "onbLanguageHint": "You can change this later in Settings.",
   "onbLanguageTitle": "Choose your language",
   "onbLocationHint": "Sets which leaderboards you appear on.",
+  "onbLocationPrivacy": "No location tracking. No email required.",
   "onbLocationTitle": "Where are you?",
   "onbLocationUnset": "Not set",
   "onbLogIn": "Log In",
