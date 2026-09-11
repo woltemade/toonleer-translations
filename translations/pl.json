@@ -853,5 +853,16 @@
   "uiUsernameSection": "Nazwa użytkownika",
   "uiUsernameTaken": "Nazwa użytkownika jest już zajęta",
   "upgrade": "Ulepsz",
-  "whyKidsLove": "Dlaczego dzieci kochają Toonleer"
+  "whyKidsLove": "Dlaczego dzieci kochają Toonleer",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

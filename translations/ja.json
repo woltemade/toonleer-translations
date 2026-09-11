@@ -853,5 +853,16 @@
   "uiUsernameSection": "ユーザー名",
   "uiUsernameTaken": "このユーザー名は既に使用されています",
   "upgrade": "アップグレード",
-  "whyKidsLove": "子どもたちがToonleerを好きな理由"
+  "whyKidsLove": "子どもたちがToonleerを好きな理由",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

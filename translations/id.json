@@ -853,5 +853,16 @@
   "uiUsernameSection": "Nama Pengguna",
   "uiUsernameTaken": "Nama pengguna sudah digunakan",
   "upgrade": "Tingkatkan",
-  "whyKidsLove": "Mengapa anak-anak menyukai Toonleer"
+  "whyKidsLove": "Mengapa anak-anak menyukai Toonleer",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

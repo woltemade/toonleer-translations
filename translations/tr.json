@@ -853,5 +853,16 @@
   "uiUsernameSection": "Kullanıcı Adı",
   "uiUsernameTaken": "Kullanıcı adı zaten alınmış",
   "upgrade": "Yükselt",
-  "whyKidsLove": "Çocukların Toonleer'i sevmesinin nedeni"
+  "whyKidsLove": "Çocukların Toonleer'i sevmesinin nedeni",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

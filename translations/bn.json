@@ -853,5 +853,16 @@
   "uiUsernameSection": "ব্যবহারকারীর নাম",
   "uiUsernameTaken": "ব্যবহারকারীর নাম ইতিমধ্যে নেওয়া হয়েছে",
   "upgrade": "আপগ্রেড করুন",
-  "whyKidsLove": "বাচ্চারা Toonleer কেন পছন্দ করে"
+  "whyKidsLove": "বাচ্চারা Toonleer কেন পছন্দ করে",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

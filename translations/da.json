@@ -853,5 +853,16 @@
   "uiUsernameSection": "Brugernavn",
   "uiUsernameTaken": "Brugernavnet er allerede taget",
   "upgrade": "Opgrader",
-  "whyKidsLove": "Hvorfor børn elsker Toonleer"
+  "whyKidsLove": "Hvorfor børn elsker Toonleer",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

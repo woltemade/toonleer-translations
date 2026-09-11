@@ -853,5 +853,16 @@
   "uiUsernameSection": "Ім'я користувача",
   "uiUsernameTaken": "Це ім'я користувача вже зайнято",
   "upgrade": "Оновити",
-  "whyKidsLove": "Чому діти люблять Toonleer"
+  "whyKidsLove": "Чому діти люблять Toonleer",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

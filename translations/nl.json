@@ -853,5 +853,16 @@
   "uiUsernameSection": "Gebruikersnaam",
   "uiUsernameTaken": "Gebruikersnaam al in gebruik",
   "upgrade": "Upgraden",
-  "whyKidsLove": "Waarom kinderen Toonleer geweldig vinden"
+  "whyKidsLove": "Waarom kinderen Toonleer geweldig vinden",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

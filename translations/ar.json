@@ -853,5 +853,16 @@
   "uiUsernameSection": "اسم المستخدم",
   "uiUsernameTaken": "اسم المستخدم محجوز بالفعل",
   "upgrade": "ترقية",
-  "whyKidsLove": "لماذا يحب الأطفال Toonleer"
+  "whyKidsLove": "لماذا يحب الأطفال Toonleer",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

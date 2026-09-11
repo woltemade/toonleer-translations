@@ -853,5 +853,16 @@
   "uiUsernameSection": "صارف نام",
   "uiUsernameTaken": "صارف نام پہلے سے لیا گیا ہے",
   "upgrade": "اپ گریڈ کریں",
-  "whyKidsLove": "بچے Toonleer کیوں پسند کرتے ہیں"
+  "whyKidsLove": "بچے Toonleer کیوں پسند کرتے ہیں",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

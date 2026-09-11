@@ -853,5 +853,16 @@
   "uiUsernameSection": "Nom d'utilisateur",
   "uiUsernameTaken": "Nom d'utilisateur déjà pris",
   "upgrade": "Mettre à niveau",
-  "whyKidsLove": "Pourquoi les enfants adorent Toonleer"
+  "whyKidsLove": "Pourquoi les enfants adorent Toonleer",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

@@ -853,5 +853,16 @@
   "uiUsernameSection": "Jina la Mtumiaji",
   "uiUsernameTaken": "Jina la mtumiaji tayari limetumika",
   "upgrade": "Panda Ngazi",
-  "whyKidsLove": "Kwa nini watoto wanapenda Toonleer"
+  "whyKidsLove": "Kwa nini watoto wanapenda Toonleer",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

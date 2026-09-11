@@ -853,5 +853,16 @@
   "uiUsernameSection": "Igama Lomsebenzisi",
   "uiUsernameTaken": "Igama lomsebenzisi selithathe",
   "upgrade": "Phakamisa",
-  "whyKidsLove": "Kungani izingane zithanda Toonleer"
+  "whyKidsLove": "Kungani izingane zithanda Toonleer",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

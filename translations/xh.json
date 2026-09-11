@@ -853,5 +853,16 @@
   "uiUsernameSection": "Igama Lomsebenzisi",
   "uiUsernameTaken": "Igama lomsebenzisi selisetshenzisiwe",
   "upgrade": "Phakamela",
-  "whyKidsLove": "Kutheni abantwana bethanda iToonleer"
+  "whyKidsLove": "Kutheni abantwana bethanda iToonleer",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

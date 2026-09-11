@@ -853,5 +853,16 @@
   "uiUsernameSection": "उपयोगकर्ता नाम",
   "uiUsernameTaken": "उपयोगकर्ता नाम पहले से लिया हुआ है",
   "upgrade": "अपग्रेड करें",
-  "whyKidsLove": "बच्चे Toonleer क्यों पसंद करते हैं"
+  "whyKidsLove": "बच्चे Toonleer क्यों पसंद करते हैं",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }

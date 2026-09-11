@@ -853,5 +853,16 @@
   "uiUsernameSection": "用户名",
   "uiUsernameTaken": "用户名已被使用",
   "upgrade": "升级",
-  "whyKidsLove": "为什么孩子们喜爱 Toonleer"
+  "whyKidsLove": "为什么孩子们喜爱 Toonleer",
+  "lbInviteAcceptedTitle": "",
+  "lbInviteAcceptedBody": "",
+  "lbInviteAlreadyTitle": "",
+  "lbInviteAlreadyBody": "",
+  "lbInviteSelfTitle": "",
+  "lbInviteSelfBody": "",
+  "lbInviteFailedTitle": "",
+  "lbInviteFailedBody": "",
+  "lbUserNotFound": "",
+  "lbFollow": "",
+  "profileSocialsEditHint": ""
 }
