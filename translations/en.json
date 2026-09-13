@@ -1,5 +1,8 @@
 {
-  "aboutBody": "Toonleer is a daily maths game: one long multiplication and division puzzle, every day, in your own language. It was built in Cape Town to make times tables something you look forward to.",
+  "aboutBody": "Toonleer is a daily maths game: one long multiplication and division challenge, every day. Its idea and name go back to my maths teacher (Mr C. J. Louw) in South Africa in the 90s, who used “Toonleer” to make learning times tables something you looked forward to.",
+  "aboutCreditConcept": "Original concept & name:",
+  "aboutCreditDevelopment": "Game design & development:",
+  "aboutReadMore": "Read more",
   "aboutTitle": "About",
   "accuracy": "Accuracy:",
   "achAchievementType": "Achievement Type",
