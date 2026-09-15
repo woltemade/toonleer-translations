@@ -178,6 +178,8 @@
   "gameTimesUp": "Czas minął!",
   "gameToonleerNumber": "Toonleer #%d",
   "gameXpEarned": "+%d XP",
+  "gateBody": "Ten link otwiera się poza Toonleer. Aby kontynuować, wpisz bieżący rok.",
+  "gateTitle": "Zapytaj dorosłego",
   "gsComingSoon": "Wkrótce!",
   "gsCreateGroup": "Utwórz Grupę",
   "gsJoinGroup": "Dołącz do Grupy",

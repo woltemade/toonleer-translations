@@ -178,6 +178,8 @@
   "gameTimesUp": "时间到！",
   "gameToonleerNumber": "Toonleer #%d",
   "gameXpEarned": "+%d XP",
+  "gateBody": "此链接将在 Toonleer 之外打开。要继续，请输入当前年份。",
+  "gateTitle": "请问大人",
   "gsComingSoon": "即将推出！",
   "gsCreateGroup": "创建小组",
   "gsJoinGroup": "加入小组",

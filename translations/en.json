@@ -217,6 +217,8 @@
   "gameTimesUp": "Time's Up!",
   "gameToonleerNumber": "Toonleer #%d",
   "gameXpEarned": "+%d XP",
+  "gateBody": "This link opens outside Toonleer. To continue, type the current year.",
+  "gateTitle": "Ask a grown-up",
   "generatingImage": "Generating…",
   "gsComingSoon": "Coming soon!",
   "gsCreateGroup": "Create a Group",

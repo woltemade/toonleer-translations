@@ -178,6 +178,8 @@
   "gameTimesUp": "Час вийшов!",
   "gameToonleerNumber": "Toonleer #%d",
   "gameXpEarned": "+%d XP",
+  "gateBody": "Це посилання відкриється поза Toonleer. Щоб продовжити, введи поточний рік.",
+  "gateTitle": "Запитай дорослого",
   "gsComingSoon": "Незабаром!",
   "gsCreateGroup": "Створити Групу",
   "gsJoinGroup": "Приєднатися до Групи",
