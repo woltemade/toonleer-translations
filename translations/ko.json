@@ -180,6 +180,7 @@
   "gameXpEarned": "+%d XP",
   "gateBody": "이 링크는 Toonleer 외부에서 열립니다. 계속하려면 현재 연도를 입력하세요.",
   "gateTitle": "어른에게 물어보세요",
+  "gateWrongYear": "올해가 아닙니다",
   "gsComingSoon": "곧 출시!",
   "gsCreateGroup": "그룹 만들기",
   "gsJoinGroup": "그룹 참여",

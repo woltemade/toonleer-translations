@@ -180,6 +180,7 @@
   "gameXpEarned": "+%d XP",
   "gateBody": "Esta ligação abre fora do Toonleer. Para continuar, escreve o ano atual.",
   "gateTitle": "Pergunta a um adulto",
+  "gateWrongYear": "Esse não é o ano atual",
   "gsComingSoon": "Em breve!",
   "gsCreateGroup": "Criar um Grupo",
   "gsJoinGroup": "Entrar em um Grupo",
