@@ -582,7 +582,7 @@
   "onbSendCode": "Send Code",
   "onbUsernameChars": "Letters, numbers and underscores only.",
   "onbUsernameLength": "Username must be 3-30 characters",
-  "onbUsernamePlaceholder": "your_username",
+  "onbUsernamePlaceholder": "MathWiz",
   "onbUsernamePrompt": "Choose a username",
   "onbUsernameTaken": "That username is taken - try another",
   "onbWelcomeTagline": "Get faster at mental maths. Every day.",
