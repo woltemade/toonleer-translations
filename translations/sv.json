@@ -672,7 +672,7 @@
   "profileCreateYourSchool": "Skapa Din Skola",
   "profileDataWarning": "Observera: Dina data lagras bara på den här enheten och försvinner om du rensar din webbläsardata. För att spara dem i molnet, verifiera din e-postadress så att du kan logga in senare.",
   "profileDeleteAccount": "Radera konto",
-  "profileDeleteBody": "Raderar ditt namn, e-post, sociala konton, vänner och topplistor. Du börjar om som ny gäst.",
+  "profileDeleteBody": "Du börjar om som ny gäst.",
   "profileDeleteOwnsEntities": "Lämna över eller radera dina topplistor först",
   "profileDeleteWarning": "Detta kan inte ångras.",
   "profileEmailCaption": "E-post",

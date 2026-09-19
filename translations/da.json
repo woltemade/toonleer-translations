@@ -672,7 +672,7 @@
   "profileCreateYourSchool": "Opret Din Skole",
   "profileDataWarning": "Bemærk: Dine data gemmes kun på denne enhed og går tabt, hvis du rydder dine browserdata. For at gemme dem i skyen skal du bekræfte din e-mailadresse, så du kan logge ind senere.",
   "profileDeleteAccount": "Slet konto",
-  "profileDeleteBody": "Sletter dit navn, din e-mail, sociale konti, venner og ranglister. Du starter forfra som ny gæst.",
+  "profileDeleteBody": "Du starter forfra som ny gæst.",
   "profileDeleteOwnsEntities": "Overdrag eller slet dine ranglister først",
   "profileDeleteWarning": "Dette kan ikke fortrydes.",
   "profileEmailCaption": "E-mail",

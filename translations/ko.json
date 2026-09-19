@@ -672,7 +672,7 @@
   "profileCreateYourSchool": "학교 만들기",
   "profileDataWarning": "참고: 데이터는 이 기기에만 저장되며 브라우저 데이터를 지우면 삭제됩니다. 클라우드에 저장하려면 이메일 주소를 인증하여 나중에 로그인할 수 있도록 하세요.",
   "profileDeleteAccount": "계정 삭제",
-  "profileDeleteBody": "이름, 이메일, 소셜, 친구, 리더보드가 삭제됩니다. 새 게스트로 다시 시작합니다.",
+  "profileDeleteBody": "새 게스트로 다시 시작합니다.",
   "profileDeleteOwnsEntities": "먼저 리더보드를 넘기거나 삭제하세요",
   "profileDeleteWarning": "되돌릴 수 없습니다.",
   "profileEmailCaption": "이메일",

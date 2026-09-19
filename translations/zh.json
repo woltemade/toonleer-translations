@@ -672,7 +672,7 @@
   "profileCreateYourSchool": "创建您的学校",
   "profileDataWarning": "注意：您的数据仅存储在此设备上，如果清除浏览器数据，将会丢失。要保存到云端，请验证您的电子邮件地址以便日后登录。",
   "profileDeleteAccount": "删除账户",
-  "profileDeleteBody": "将清除你的名字、邮箱、社交账号、好友和排行榜。你会作为新访客重新开始。",
+  "profileDeleteBody": "你会作为新访客重新开始。",
   "profileDeleteOwnsEntities": "请先转交或删除你的排行榜",
   "profileDeleteWarning": "此操作无法撤销。",
   "profileEmailCaption": "邮箱",

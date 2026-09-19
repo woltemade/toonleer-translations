@@ -672,7 +672,7 @@
   "profileCreateYourSchool": "Deine Schule Erstellen",
   "profileDataWarning": "Hinweis: Deine Daten werden nur auf diesem Gerät gespeichert und gehen verloren, wenn du deine Browserdaten löschst. Um sie in der Cloud zu speichern, verifiziere deine E-Mail-Adresse, damit du dich später damit anmelden kannst.",
   "profileDeleteAccount": "Konto löschen",
-  "profileDeleteBody": "Löscht deinen Namen, E-Mail, Socials, Freunde und Ranglisten. Du startest neu als Gast.",
+  "profileDeleteBody": "Du startest neu als Gast.",
   "profileDeleteOwnsEntities": "Übergib oder lösche zuerst deine Ranglisten",
   "profileDeleteWarning": "Das kann nicht rückgängig gemacht werden.",
   "profileEmailCaption": "E-Mail",

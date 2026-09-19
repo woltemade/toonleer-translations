@@ -672,7 +672,7 @@
   "profileCreateYourSchool": "学校を作成する",
   "profileDataWarning": "注意：データはこのデバイスにのみ保存されており、ブラウザデータを削除すると失われます。クラウドに保存するにはメールアドレスを確認してください。後でログインできるようになります。",
   "profileDeleteAccount": "アカウントを削除",
-  "profileDeleteBody": "名前、メール、SNS、友達、リーダーボードが消去されます。新しいゲストとしてやり直します。",
+  "profileDeleteBody": "新しいゲストとしてやり直します。",
   "profileDeleteOwnsEntities": "先にリーダーボードを譲渡または削除してください",
   "profileDeleteWarning": "この操作は元に戻せません。",
   "profileEmailCaption": "メール",

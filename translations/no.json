@@ -672,7 +672,7 @@
   "profileCreateYourSchool": "Opprett Din Skole",
   "profileDataWarning": "Merk: Dataene dine lagres bare på denne enheten og vil gå tapt hvis du sletter nettleserdata. For å lagre dem i skyen, bekreft e-postadressen din slik at du kan logge inn senere.",
   "profileDeleteAccount": "Slett konto",
-  "profileDeleteBody": "Sletter navnet ditt, e-posten, sosiale kontoer, venner og ledertavler. Du starter på nytt som ny gjest.",
+  "profileDeleteBody": "Du starter på nytt som ny gjest.",
   "profileDeleteOwnsEntities": "Overfør eller slett ledertavlene dine først",
   "profileDeleteWarning": "Dette kan ikke angres.",
   "profileEmailCaption": "E-post",

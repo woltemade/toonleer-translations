@@ -734,7 +734,7 @@
   "profileDataWarning": "Note: Your data is stored on this device only and will be lost if you clear your browser data. To save it to the cloud, verify your email address, so that you can log in with it later.",
   "profileDeleteAccount": "Delete account",
   "profileDeleteAccountDesc": "Permanently remove your name, email and profile. Your game history stays, but nothing in it will point back to you.",
-  "profileDeleteBody": "Erases your name, email, socials, friends and leaderboards. You start over as a new guest.",
+  "profileDeleteBody": "You start over as a new guest.",
   "profileDeleteOwnsEntities": "Hand over or delete your leaderboards first",
   "profileDeleteWarning": "This cannot be undone.",
   "profileEmailCaption": "Email",

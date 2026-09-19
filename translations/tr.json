@@ -672,7 +672,7 @@
   "profileCreateYourSchool": "Okulunuzu Oluşturun",
   "profileDataWarning": "Not: Verileriniz yalnızca bu cihazda saklanmaktadır ve tarayıcı verilerini temizlerseniz kaybolacaktır. Buluta kaydetmek için e-posta adresinizi doğrulayın, böylece daha sonra giriş yapabilirsiniz.",
   "profileDeleteAccount": "Hesabı sil",
-  "profileDeleteBody": "Adını, e-postanı, sosyal hesaplarını, arkadaşlarını ve liderboard'larını siler. Yeni bir misafir olarak baştan başlarsın.",
+  "profileDeleteBody": "Yeni bir misafir olarak baştan başlarsın.",
   "profileDeleteOwnsEntities": "Önce liderboard'larını devret veya sil",
   "profileDeleteWarning": "Bu geri alınamaz.",
   "profileEmailCaption": "E-posta",

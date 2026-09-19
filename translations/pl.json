@@ -672,7 +672,7 @@
   "profileCreateYourSchool": "Utwórz Swoją Szkołę",
   "profileDataWarning": "Uwaga: Twoje dane są przechowywane tylko na tym urządzeniu i zostaną utracone po wyczyszczeniu danych przeglądarki. Aby zapisać je w chmurze, zweryfikuj swój adres e-mail, aby móc się zalogować później.",
   "profileDeleteAccount": "Usuń konto",
-  "profileDeleteBody": "Usuwa twoją nazwę, e-mail, konta społecznościowe, znajomych i tablice. Zaczynasz od nowa jako gość.",
+  "profileDeleteBody": "Zaczynasz od nowa jako gość.",
   "profileDeleteOwnsEntities": "Najpierw przekaż lub usuń swoje tablice wyników",
   "profileDeleteWarning": "Tego nie można cofnąć.",
   "profileEmailCaption": "E-mail",

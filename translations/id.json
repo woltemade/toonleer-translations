@@ -672,7 +672,7 @@
   "profileCreateYourSchool": "Buat Sekolah Anda",
   "profileDataWarning": "Catatan: Data Anda hanya tersimpan di perangkat ini dan akan hilang jika Anda menghapus data browser. Untuk menyimpannya di cloud, verifikasi alamat email Anda agar bisa masuk nanti.",
   "profileDeleteAccount": "Hapus akun",
-  "profileDeleteBody": "Menghapus nama, email, akun sosial, teman, dan papan peringkatmu. Kamu mulai lagi sebagai tamu baru.",
+  "profileDeleteBody": "Kamu mulai lagi sebagai tamu baru.",
   "profileDeleteOwnsEntities": "Serahkan atau hapus papan peringkatmu dulu",
   "profileDeleteWarning": "Ini tidak bisa dibatalkan.",
   "profileEmailCaption": "Email",

@@ -672,7 +672,7 @@
   "profileCreateYourSchool": "إنشاء مدرستك",
   "profileDataWarning": "ملاحظة: يتم تخزين بياناتك على هذا الجهاز فقط وستُفقد إذا مسحت بيانات المتصفح. لحفظها في السحابة، تحقق من عنوان بريدك الإلكتروني حتى تتمكن من تسجيل الدخول لاحقاً.",
   "profileDeleteAccount": "حذف الحساب",
-  "profileDeleteBody": "يمحو اسمك وبريدك وحساباتك وأصدقاءك ولوحاتك. تبدأ من جديد كضيف.",
+  "profileDeleteBody": "تبدأ من جديد كضيف.",
   "profileDeleteOwnsEntities": "سلّم لوحاتك أو احذفها أولًا",
   "profileDeleteWarning": "لا يمكن التراجع عن هذا.",
   "profileEmailCaption": "البريد الإلكتروني",
