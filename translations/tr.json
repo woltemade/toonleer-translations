@@ -821,6 +821,11 @@
   "statsWinPercent": "Kazanma %",
   "statsWinRate": "Kazanma Oranı:",
   "statsXP": "XP",
+  "storeShotDaily": "HER GÜN BİR MEYDAN OKUMA",
+  "storeShotGrow": "PUANININ BÜYÜMESİNİ İZLE",
+  "storeShotRecord": "REKORUNU KIR",
+  "storeShotSpeed": "ZİHİNDEN DAHA HIZLI HESAPLA",
+  "storeShotTime": "NE KADAR HIZLISIN?",
   "time": "Süre:",
   "titleAlmostFlawless": "Neredeyse Kusursuz!",
   "titleAlmostPerfect": "Neredeyse mükemmel!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "Kullanıcı Adı",
   "uiUsernameTaken": "Kullanıcı adı zaten alınmış",
   "upgrade": "Yükselt",
-  "whyKidsLove": "Çocukların Toonleer'i sevmesinin nedeni"
+  "whyKidsLove": "Çocukların Toonleer'i sevmesinin nedeni",
+  "recordStarsOf": "%d/%d yıldız"
 }

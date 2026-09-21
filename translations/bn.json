@@ -821,6 +821,11 @@
   "statsWinPercent": "জয় %",
   "statsWinRate": "জয়ের হার:",
   "statsXP": "XP",
+  "storeShotDaily": "একটি চ্যালেঞ্জ। প্রতিদিন।",
+  "storeShotGrow": "তোমার স্কোর বাড়তে দেখো",
+  "storeShotRecord": "নিজের রেকর্ড গড়ো",
+  "storeShotSpeed": "মানসিক অঙ্কে দ্রুততর হও",
+  "storeShotTime": "কত দ্রুত পারো?",
   "time": "সময়:",
   "titleAlmostFlawless": "প্রায় নিখুঁত!",
   "titleAlmostPerfect": "প্রায় নিখুঁত!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "ব্যবহারকারীর নাম",
   "uiUsernameTaken": "ব্যবহারকারীর নাম ইতিমধ্যে নেওয়া হয়েছে",
   "upgrade": "আপগ্রেড করুন",
-  "whyKidsLove": "বাচ্চারা Toonleer কেন পছন্দ করে"
+  "whyKidsLove": "বাচ্চারা Toonleer কেন পছন্দ করে",
+  "recordStarsOf": "%d/%d তারা"
 }

@@ -821,6 +821,11 @@
   "statsWinPercent": "Seier %",
   "statsWinRate": "Vinnersats:",
   "statsXP": "XP",
+  "storeShotDaily": "ÉN UTFORDRING. HVER DAG.",
+  "storeShotGrow": "SE POENGENE DINE VOKSE",
+  "storeShotRecord": "SETT DIN REKORD",
+  "storeShotSpeed": "BLI RASKERE I HODEREGNING",
+  "storeShotTime": "HVOR RASKT KLARER DU DET?",
   "time": "Tid",
   "titleAlmostFlawless": "Nesten feilfritt!",
   "titleAlmostPerfect": "Nesten perfekt!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "Brukernavn",
   "uiUsernameTaken": "Brukernavnet er allerede tatt",
   "upgrade": "Oppgrader",
-  "whyKidsLove": "Hvorfor barn elsker Toonleer"
+  "whyKidsLove": "Hvorfor barn elsker Toonleer",
+  "recordStarsOf": "%d/%d stjerner"
 }

@@ -821,6 +821,11 @@
   "statsWinPercent": "胜率 %",
   "statsWinRate": "胜率：",
   "statsXP": "XP",
+  "storeShotDaily": "每天一个挑战",
+  "storeShotGrow": "看着分数一路上涨",
+  "storeShotRecord": "创造你的纪录",
+  "storeShotSpeed": "心算越来越快",
+  "storeShotTime": "你能有多快？",
   "time": "时间：",
   "titleAlmostFlawless": "近乎完美！",
   "titleAlmostPerfect": "几乎完美！",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "用户名",
   "uiUsernameTaken": "用户名已被使用",
   "upgrade": "升级",
-  "whyKidsLove": "为什么孩子们喜爱 Toonleer"
+  "whyKidsLove": "为什么孩子们喜爱 Toonleer",
+  "recordStarsOf": "%d/%d 星"
 }

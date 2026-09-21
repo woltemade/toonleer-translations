@@ -821,6 +821,11 @@
   "statsWinPercent": "Winst %",
   "statsWinRate": "Winstkans:",
   "statsXP": "XP",
+  "storeShotDaily": "ÉÉN UITDAGING. ELKE DAG.",
+  "storeShotGrow": "ZIE JE SCORE GROEIEN",
+  "storeShotRecord": "VESTIG JOUW RECORD",
+  "storeShotSpeed": "WORD SNELLER IN HOOFDREKENEN",
+  "storeShotTime": "HOE SNEL BEN JIJ?",
   "time": "Tijd:",
   "titleAlmostFlawless": "Bijna perfect!",
   "titleAlmostPerfect": "Bijna perfect!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "Gebruikersnaam",
   "uiUsernameTaken": "Gebruikersnaam al in gebruik",
   "upgrade": "Upgraden",
-  "whyKidsLove": "Waarom kinderen Toonleer geweldig vinden"
+  "whyKidsLove": "Waarom kinderen Toonleer geweldig vinden",
+  "recordStarsOf": "%d/%d sterren"
 }

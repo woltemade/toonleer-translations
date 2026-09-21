@@ -821,6 +821,11 @@
   "statsWinPercent": "% Ushindi",
   "statsWinRate": "Kiwango cha Ushindi:",
   "statsXP": "XP",
+  "storeShotDaily": "CHANGAMOTO MOJA. KILA SIKU.",
+  "storeShotGrow": "TAZAMA ALAMA ZAKO ZIKIKUA",
+  "storeShotRecord": "WEKA REKODI YAKO",
+  "storeShotSpeed": "KUWA MWEPESI ZAIDI KWA HESABU",
+  "storeShotTime": "UNAWEZA KWA KASI GANI?",
   "time": "Muda:",
   "titleAlmostFlawless": "Karibu Kamili!",
   "titleAlmostPerfect": "Karibu Kamili!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "Jina la Mtumiaji",
   "uiUsernameTaken": "Jina la mtumiaji tayari limetumika",
   "upgrade": "Panda Ngazi",
-  "whyKidsLove": "Kwa nini watoto wanapenda Toonleer"
+  "whyKidsLove": "Kwa nini watoto wanapenda Toonleer",
+  "recordStarsOf": "nyota %d/%d"
 }

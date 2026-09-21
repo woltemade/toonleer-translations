@@ -821,6 +821,11 @@
   "statsWinPercent": "Sieg %",
   "statsWinRate": "Siegquote:",
   "statsXP": "XP",
+  "storeShotDaily": "EINE AUFGABE. JEDEN TAG.",
+  "storeShotGrow": "SIEH DEINE PUNKTE WACHSEN",
+  "storeShotRecord": "STELL DEINEN REKORD AUF",
+  "storeShotSpeed": "WERDE SCHNELLER IM KOPFRECHNEN",
+  "storeShotTime": "WIE SCHNELL SCHAFFST DU ES?",
   "time": "Zeit:",
   "titleAlmostFlawless": "Fast perfekt!",
   "titleAlmostPerfect": "Fast perfekt!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "Benutzername",
   "uiUsernameTaken": "Benutzername bereits vergeben",
   "upgrade": "Upgrade",
-  "whyKidsLove": "Warum Kinder Toonleer lieben"
+  "whyKidsLove": "Warum Kinder Toonleer lieben",
+  "recordStarsOf": "%d/%d Sterne"
 }

@@ -821,6 +821,11 @@
   "statsWinPercent": "Menang %",
   "statsWinRate": "Tingkat Kemenangan:",
   "statsXP": "XP",
+  "storeShotDaily": "SATU TANTANGAN. SETIAP HARI.",
+  "storeShotGrow": "LIHAT SKORMU TUMBUH",
+  "storeShotRecord": "CIPTAKAN REKORMU",
+  "storeShotSpeed": "BERHITUNG LEBIH CEPAT DI KEPALA",
+  "storeShotTime": "SECEPAT APA KAMU?",
   "time": "Waktu:",
   "titleAlmostFlawless": "Nyaris Sempurna!",
   "titleAlmostPerfect": "Hampir sempurna!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "Nama Pengguna",
   "uiUsernameTaken": "Nama pengguna sudah digunakan",
   "upgrade": "Tingkatkan",
-  "whyKidsLove": "Mengapa anak-anak menyukai Toonleer"
+  "whyKidsLove": "Mengapa anak-anak menyukai Toonleer",
+  "recordStarsOf": "%d/%d bintang"
 }

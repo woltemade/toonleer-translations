@@ -821,6 +821,11 @@
   "statsWinPercent": "% Nqoba",
   "statsWinRate": "Isilinganiso Sokunqoba:",
   "statsXP": "XP",
+  "storeShotDaily": "UMNGENI OMNYE. YONKE IMIHLA.",
+  "storeShotGrow": "BUKELA AMANQAKU AKHO EKHULA",
+  "storeShotRecord": "MISELA IREKHODI YAKHO",
+  "storeShotSpeed": "KHAWULEZA KWIZIBALO ZENGQONDO",
+  "storeShotTime": "UNGAKHAWULEZA KANGAKANANI?",
   "time": "Ixesha:",
   "titleAlmostFlawless": "Phantse Kwaphelela!",
   "titleAlmostPerfect": "Cishe Iphelele!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "Igama Lomsebenzisi",
   "uiUsernameTaken": "Igama lomsebenzisi selisetshenzisiwe",
   "upgrade": "Phakamela",
-  "whyKidsLove": "Kutheni abantwana bethanda iToonleer"
+  "whyKidsLove": "Kutheni abantwana bethanda iToonleer",
+  "recordStarsOf": "%d/%d iinkwenkwezi"
 }

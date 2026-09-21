@@ -821,6 +821,11 @@
   "statsWinPercent": "승률 %",
   "statsWinRate": "승률:",
   "statsXP": "XP",
+  "storeShotDaily": "하루에 하나의 도전",
+  "storeShotGrow": "점수가 자라는 걸 보세요",
+  "storeShotRecord": "기록을 세우세요",
+  "storeShotSpeed": "암산이 더 빨라집니다",
+  "storeShotTime": "얼마나 빠를 수 있나요?",
   "time": "시간:",
   "titleAlmostFlawless": "거의 완벽!",
   "titleAlmostPerfect": "거의 완벽해요!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "사용자 이름",
   "uiUsernameTaken": "이미 사용 중인 사용자 이름입니다",
   "upgrade": "업그레이드",
-  "whyKidsLove": "아이들이 Toonleer를 좋아하는 이유"
+  "whyKidsLove": "아이들이 Toonleer를 좋아하는 이유",
+  "recordStarsOf": "별 %d/%d"
 }

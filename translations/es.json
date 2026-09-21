@@ -821,6 +821,11 @@
   "statsWinPercent": "Victoria %",
   "statsWinRate": "Tasa de victoria:",
   "statsXP": "XP",
+  "storeShotDaily": "UN RETO. CADA DÍA.",
+  "storeShotGrow": "MIRA CRECER TU PUNTUACIÓN",
+  "storeShotRecord": "ESTABLECE TU RÉCORD",
+  "storeShotSpeed": "CALCULA MÁS RÁPIDO DE CABEZA",
+  "storeShotTime": "¿QUÉ TAN RÁPIDO ERES?",
   "time": "Tiempo:",
   "titleAlmostFlawless": "¡Casi perfecto!",
   "titleAlmostPerfect": "¡Casi perfecto!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "Nombre de usuario",
   "uiUsernameTaken": "Nombre de usuario ya en uso",
   "upgrade": "Mejorar",
-  "whyKidsLove": "Por qué los niños aman Toonleer"
+  "whyKidsLove": "Por qué los niños aman Toonleer",
+  "recordStarsOf": "%d/%d estrellas"
 }

@@ -822,6 +822,11 @@
   "statsWinPercent": "Wen %",
   "statsWinRate": "Wenkoers:",
   "statsXP": "XP",
+  "storeShotDaily": "EEN UITDAGING. ELKE DAG.",
+  "storeShotGrow": "KYK HOE JOU PUNTE GROEI",
+  "storeShotRecord": "STEL JOU REKORD",
+  "storeShotSpeed": "WORD VINNIGER MET HOOFREKENE",
+  "storeShotTime": "HOE VINNIG KAN JY GAAN?",
   "time": "Tyd:",
   "titleAlmostFlawless": "Byna Foutloos!",
   "titleAlmostPerfect": "Byna Perfek!",
@@ -877,5 +882,6 @@
   "uiUsernameSection": "Gebruikersnaam",
   "uiUsernameTaken": "Gebruikersnaam is al geneem",
   "upgrade": "Opgradeer",
-  "whyKidsLove": "Hoekom kinders van Toonleer hou"
+  "whyKidsLove": "Hoekom kinders van Toonleer hou",
+  "recordStarsOf": "%d/%d sterre"
 }

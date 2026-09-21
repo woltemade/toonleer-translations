@@ -957,5 +957,11 @@
   "videoRenderError": "Something went wrong rendering the video.",
   "whyKidsLove": "Why kids love Toonleer",
   "lbAdminExcludedNote": "Admins' games don't count towards this leaderboard's stats or records.",
-  "profileCountry": "Country"
+  "profileCountry": "Country",
+  "storeShotSpeed": "GET FASTER AT MENTAL MATH",
+  "storeShotDaily": "ONE CHALLENGE. EVERY DAY.",
+  "storeShotTime": "HOW FAST CAN YOU GO?",
+  "storeShotGrow": "WATCH YOUR SCORE GROW",
+  "storeShotRecord": "SET YOUR RECORD",
+  "recordStarsOf": "%d/%d stars"
 }

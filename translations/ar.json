@@ -821,6 +821,11 @@
   "statsWinPercent": "% فوز",
   "statsWinRate": "نسبة الفوز:",
   "statsXP": "XP",
+  "storeShotDaily": "تحدٍّ واحد. كل يوم.",
+  "storeShotGrow": "شاهد نتيجتك تنمو",
+  "storeShotRecord": "سجّل رقمك القياسي",
+  "storeShotSpeed": "صر أسرع في الحساب الذهني",
+  "storeShotTime": "ما مدى سرعتك؟",
   "time": "الوقت:",
   "titleAlmostFlawless": "بلا أخطاء تقريبًا!",
   "titleAlmostPerfect": "شبه مثالي!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "اسم المستخدم",
   "uiUsernameTaken": "اسم المستخدم محجوز بالفعل",
   "upgrade": "ترقية",
-  "whyKidsLove": "لماذا يحب الأطفال Toonleer"
+  "whyKidsLove": "لماذا يحب الأطفال Toonleer",
+  "recordStarsOf": "%d/%d نجوم"
 }

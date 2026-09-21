@@ -821,6 +821,11 @@
   "statsWinPercent": "勝率 %",
   "statsWinRate": "勝率：",
   "statsXP": "XP",
+  "storeShotDaily": "毎日ひとつの挑戦",
+  "storeShotGrow": "スコアが伸びていく",
+  "storeShotRecord": "記録を打ち立てよう",
+  "storeShotSpeed": "暗算がもっと速くなる",
+  "storeShotTime": "どこまで速くなれる？",
   "time": "タイム：",
   "titleAlmostFlawless": "ほぼ完璧！",
   "titleAlmostPerfect": "ほぼ完璧！",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "ユーザー名",
   "uiUsernameTaken": "このユーザー名は既に使用されています",
   "upgrade": "アップグレード",
-  "whyKidsLove": "子どもたちがToonleerを好きな理由"
+  "whyKidsLove": "子どもたちがToonleerを好きな理由",
+  "recordStarsOf": "星 %d/%d"
 }

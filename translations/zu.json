@@ -821,6 +821,11 @@
   "statsWinPercent": "% Abanqobi",
   "statsWinRate": "Amazinga Okunqoba:",
   "statsXP": "XP",
+  "storeShotDaily": "INSELELO EYODWA. NSUKU ZONKE.",
+  "storeShotGrow": "BUKA AMAPHUZU AKHO EKHULA",
+  "storeShotRecord": "BEKA IREKHODI LAKHO",
+  "storeShotSpeed": "SHESHA KAKHULU KWIZIBALO ZENGQONDO",
+  "storeShotTime": "UNGASHESHA KANGAKANANI?",
   "time": "Isikhathi:",
   "titleAlmostFlawless": "Cishe Kwaphelela!",
   "titleAlmostPerfect": "Cishe Iphelele!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "Igama Lomsebenzisi",
   "uiUsernameTaken": "Igama lomsebenzisi selithathe",
   "upgrade": "Phakamisa",
-  "whyKidsLove": "Kungani izingane zithanda Toonleer"
+  "whyKidsLove": "Kungani izingane zithanda Toonleer",
+  "recordStarsOf": "%d/%d izinkanyezi"
 }

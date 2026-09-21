@@ -821,6 +821,11 @@
   "statsWinPercent": "Vinst %",
   "statsWinRate": "Vinstandel:",
   "statsXP": "XP",
+  "storeShotDaily": "EN UTMANING. VARJE DAG.",
+  "storeShotGrow": "SE DIN POÄNG VÄXA",
+  "storeShotRecord": "SÄTT DITT REKORD",
+  "storeShotSpeed": "BLI SNABBARE PÅ HUVUDRÄKNING",
+  "storeShotTime": "HUR SNABB ÄR DU?",
   "time": "Tid",
   "titleAlmostFlawless": "Nästan Felfritt!",
   "titleAlmostPerfect": "Nästan perfekt!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "Användarnamn",
   "uiUsernameTaken": "Användarnamnet är redan taget",
   "upgrade": "Uppgradera",
-  "whyKidsLove": "Varför barn älskar Toonleer"
+  "whyKidsLove": "Varför barn älskar Toonleer",
+  "recordStarsOf": "%d/%d stjärnor"
 }

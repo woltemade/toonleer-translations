@@ -821,6 +821,11 @@
   "statsWinPercent": "Перемоги %",
   "statsWinRate": "Відсоток перемог:",
   "statsXP": "XP",
+  "storeShotDaily": "ОДИН ВИКЛИК. ЩОДНЯ.",
+  "storeShotGrow": "ДИВИСЬ, ЯК РОСТУТЬ ОЧКИ",
+  "storeShotRecord": "ВСТАНОВИ СВІЙ РЕКОРД",
+  "storeShotSpeed": "РАХУЙ ПОДУМКИ ШВИДШЕ",
+  "storeShotTime": "НАСКІЛЬКИ ТИ ШВИДКИЙ?",
   "time": "Час:",
   "titleAlmostFlawless": "Майже бездоганно!",
   "titleAlmostPerfect": "Майже ідеально!",
@@ -876,5 +881,6 @@
   "uiUsernameSection": "Ім'я користувача",
   "uiUsernameTaken": "Це ім'я користувача вже зайнято",
   "upgrade": "Оновити",
-  "whyKidsLove": "Чому діти люблять Toonleer"
+  "whyKidsLove": "Чому діти люблять Toonleer",
+  "recordStarsOf": "%d/%d зірок"
 }
