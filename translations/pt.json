@@ -882,5 +882,7 @@
   "uiUsernameTaken": "Nome de usuário já em uso",
   "upgrade": "Atualizar",
   "whyKidsLove": "Por que as crianças amam o Toonleer",
-  "recordStarsOf": "%d/%d estrelas"
+  "recordStarsOf": "%d/%d estrelas",
+  "onbUsernameNotAllowed": "Escolhe outro nome de utilizador.",
+  "uiUsernameNotAllowed": "Escolhe outro nome de utilizador."
 }

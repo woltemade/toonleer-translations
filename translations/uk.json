@@ -882,5 +882,7 @@
   "uiUsernameTaken": "Це ім'я користувача вже зайнято",
   "upgrade": "Оновити",
   "whyKidsLove": "Чому діти люблять Toonleer",
-  "recordStarsOf": "%d/%d зірок"
+  "recordStarsOf": "%d/%d зірок",
+  "onbUsernameNotAllowed": "Будь ласка, обери інше ім'я користувача.",
+  "uiUsernameNotAllowed": "Будь ласка, обери інше ім'я користувача."
 }

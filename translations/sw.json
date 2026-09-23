@@ -882,5 +882,7 @@
   "uiUsernameTaken": "Jina la mtumiaji tayari limetumika",
   "upgrade": "Panda Ngazi",
   "whyKidsLove": "Kwa nini watoto wanapenda Toonleer",
-  "recordStarsOf": "nyota %d/%d"
+  "recordStarsOf": "nyota %d/%d",
+  "onbUsernameNotAllowed": "Tafadhali chagua jina lingine la mtumiaji.",
+  "uiUsernameNotAllowed": "Tafadhali chagua jina lingine la mtumiaji."
 }

@@ -882,5 +882,7 @@
   "uiUsernameTaken": "Nama pengguna sudah digunakan",
   "upgrade": "Tingkatkan",
   "whyKidsLove": "Mengapa anak-anak menyukai Toonleer",
-  "recordStarsOf": "%d/%d bintang"
+  "recordStarsOf": "%d/%d bintang",
+  "onbUsernameNotAllowed": "Silakan pilih nama pengguna lain.",
+  "uiUsernameNotAllowed": "Silakan pilih nama pengguna lain."
 }

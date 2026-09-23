@@ -882,5 +882,7 @@
   "uiUsernameTaken": "Användarnamnet är redan taget",
   "upgrade": "Uppgradera",
   "whyKidsLove": "Varför barn älskar Toonleer",
-  "recordStarsOf": "%d/%d stjärnor"
+  "recordStarsOf": "%d/%d stjärnor",
+  "onbUsernameNotAllowed": "Välj ett annat användarnamn.",
+  "uiUsernameNotAllowed": "Välj ett annat användarnamn."
 }

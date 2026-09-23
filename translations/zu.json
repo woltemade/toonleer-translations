@@ -882,5 +882,7 @@
   "uiUsernameTaken": "Igama lomsebenzisi selithathe",
   "upgrade": "Phakamisa",
   "whyKidsLove": "Kungani izingane zithanda Toonleer",
-  "recordStarsOf": "%d/%d izinkanyezi"
+  "recordStarsOf": "%d/%d izinkanyezi",
+  "onbUsernameNotAllowed": "Sicela ukhethe elinye igama lomsebenzisi.",
+  "uiUsernameNotAllowed": "Sicela ukhethe elinye igama lomsebenzisi."
 }

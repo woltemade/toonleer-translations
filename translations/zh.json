@@ -882,5 +882,7 @@
   "uiUsernameTaken": "用户名已被使用",
   "upgrade": "升级",
   "whyKidsLove": "为什么孩子们喜爱 Toonleer",
-  "recordStarsOf": "%d/%d 星"
+  "recordStarsOf": "%d/%d 星",
+  "onbUsernameNotAllowed": "请选择其他用户名。",
+  "uiUsernameNotAllowed": "请选择其他用户名。"
 }

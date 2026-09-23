@@ -882,5 +882,7 @@
   "uiUsernameTaken": "Gebruikersnaam al in gebruik",
   "upgrade": "Upgraden",
   "whyKidsLove": "Waarom kinderen Toonleer geweldig vinden",
-  "recordStarsOf": "%d/%d sterren"
+  "recordStarsOf": "%d/%d sterren",
+  "onbUsernameNotAllowed": "Kies alsjeblieft een andere gebruikersnaam.",
+  "uiUsernameNotAllowed": "Kies alsjeblieft een andere gebruikersnaam."
 }

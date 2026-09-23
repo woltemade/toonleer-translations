@@ -882,5 +882,7 @@
   "uiUsernameTaken": "Igama lomsebenzisi selisetshenzisiwe",
   "upgrade": "Phakamela",
   "whyKidsLove": "Kutheni abantwana bethanda iToonleer",
-  "recordStarsOf": "%d/%d iinkwenkwezi"
+  "recordStarsOf": "%d/%d iinkwenkwezi",
+  "onbUsernameNotAllowed": "Nceda khetha elinye igama lomsebenzisi.",
+  "uiUsernameNotAllowed": "Nceda khetha elinye igama lomsebenzisi."
 }

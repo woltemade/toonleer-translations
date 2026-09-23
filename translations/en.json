@@ -963,5 +963,7 @@
   "storeShotTime": "HOW FAST CAN YOU GO?",
   "storeShotGrow": "WATCH YOUR SCORE GROW",
   "storeShotRecord": "SET YOUR RECORD",
-  "recordStarsOf": "%d/%d stars"
+  "recordStarsOf": "%d/%d stars",
+  "onbUsernameNotAllowed": "Please choose a different username.",
+  "uiUsernameNotAllowed": "Please choose a different username."
 }

@@ -882,5 +882,7 @@
   "uiUsernameTaken": "Kullanıcı adı zaten alınmış",
   "upgrade": "Yükselt",
   "whyKidsLove": "Çocukların Toonleer'i sevmesinin nedeni",
-  "recordStarsOf": "%d/%d yıldız"
+  "recordStarsOf": "%d/%d yıldız",
+  "onbUsernameNotAllowed": "Lütfen başka bir kullanıcı adı seç.",
+  "uiUsernameNotAllowed": "Lütfen başka bir kullanıcı adı seç."
 }

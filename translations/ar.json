@@ -882,5 +882,7 @@
   "uiUsernameTaken": "اسم المستخدم محجوز بالفعل",
   "upgrade": "ترقية",
   "whyKidsLove": "لماذا يحب الأطفال Toonleer",
-  "recordStarsOf": "%d/%d نجوم"
+  "recordStarsOf": "%d/%d نجوم",
+  "onbUsernameNotAllowed": "يرجى اختيار اسم مستخدم آخر.",
+  "uiUsernameNotAllowed": "يرجى اختيار اسم مستخدم آخر."
 }
