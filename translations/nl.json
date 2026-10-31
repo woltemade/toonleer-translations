@@ -884,5 +884,16 @@
   "whyKidsLove": "Waarom kinderen Toonleer geweldig vinden",
   "recordStarsOf": "%d/%d sterren",
   "onbUsernameNotAllowed": "Kies alsjeblieft een andere gebruikersnaam.",
-  "uiUsernameNotAllowed": "Kies alsjeblieft een andere gebruikersnaam."
+  "uiUsernameNotAllowed": "Kies alsjeblieft een andere gebruikersnaam.",
+  "promoUnlockedTitle": "Pro ontgrendeld!",
+  "promoRestoredTitle": "Je Pro is terug!",
+  "promoUnlockedBody": "Gratis Pro van {leaderboard}, tot {date}.",
+  "promoUnlockedNote": "Je houdt het zolang je in de ranglijst blijft.",
+  "promoUnlockedCta": "Aan de slag",
+  "promoPendingToast": "Speel een spel uit om je gratis Pro van {leaderboard} te ontgrendelen.",
+  "promoFullToast": "Alle gratis Pro-plekken van {leaderboard} zijn vergeven.",
+  "promoUsedToast": "Je hebt je gratis Pro al gehad.",
+  "promoLeaveWarning": "Als je vertrekt, stopt de gratis Pro die {leaderboard} je gaf. Doe vóór {date} weer mee om hem terug te krijgen.",
+  "profileProMember": "Pro-lid",
+  "profileProEnds": "eindigt op {date}"
 }

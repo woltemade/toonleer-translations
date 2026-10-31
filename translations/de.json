@@ -884,5 +884,16 @@
   "whyKidsLove": "Warum Kinder Toonleer lieben",
   "recordStarsOf": "%d/%d Sterne",
   "onbUsernameNotAllowed": "Bitte wähle einen anderen Benutzernamen.",
-  "uiUsernameNotAllowed": "Bitte wähle einen anderen Benutzernamen."
+  "uiUsernameNotAllowed": "Bitte wähle einen anderen Benutzernamen.",
+  "promoUnlockedTitle": "Pro freigeschaltet!",
+  "promoRestoredTitle": "Dein Pro ist zurück!",
+  "promoUnlockedBody": "Kostenloses Pro von {leaderboard}, bis {date}.",
+  "promoUnlockedNote": "Es bleibt dir, solange du in der Rangliste bleibst.",
+  "promoUnlockedCta": "Los geht's",
+  "promoPendingToast": "Beende ein Spiel, um dein kostenloses Pro von {leaderboard} freizuschalten.",
+  "promoFullToast": "Die kostenlosen Pro-Plätze von {leaderboard} sind alle vergeben.",
+  "promoUsedToast": "Du hattest dein kostenloses Pro bereits.",
+  "promoLeaveWarning": "Wenn du die Rangliste verlässt, endet das kostenlose Pro von {leaderboard}. Tritt vor dem {date} wieder bei, um es zurückzubekommen.",
+  "profileProMember": "Pro-Mitglied",
+  "profileProEnds": "endet am {date}"
 }

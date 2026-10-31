@@ -884,5 +884,16 @@
   "whyKidsLove": "子どもたちがToonleerを好きな理由",
   "recordStarsOf": "星 %d/%d",
   "onbUsernameNotAllowed": "別のユーザー名を選んでください。",
-  "uiUsernameNotAllowed": "別のユーザー名を選んでください。"
+  "uiUsernameNotAllowed": "別のユーザー名を選んでください。",
+  "promoUnlockedTitle": "プロが解除されました！",
+  "promoRestoredTitle": "プロが戻ってきました！",
+  "promoUnlockedBody": "{leaderboard} からの無料プロ（{date} まで）。",
+  "promoUnlockedNote": "リーダーボードに参加している間はずっと使えます。",
+  "promoUnlockedCta": "はじめよう",
+  "promoPendingToast": "ゲームを1回クリアすると、{leaderboard} の無料プロが解除されます。",
+  "promoFullToast": "{leaderboard} の無料プロ枠はすべて埋まりました。",
+  "promoUsedToast": "無料プロはすでに利用済みです。",
+  "promoLeaveWarning": "退出すると、{leaderboard} からの無料プロは終了します。{date} までに再参加すれば元に戻ります。",
+  "profileProMember": "プロ会員",
+  "profileProEnds": "{date} に終了"
 }

@@ -884,5 +884,16 @@
   "whyKidsLove": "Чому діти люблять Toonleer",
   "recordStarsOf": "%d/%d зірок",
   "onbUsernameNotAllowed": "Будь ласка, обери інше ім'я користувача.",
-  "uiUsernameNotAllowed": "Будь ласка, обери інше ім'я користувача."
+  "uiUsernameNotAllowed": "Будь ласка, обери інше ім'я користувача.",
+  "promoUnlockedTitle": "Про розблоковано!",
+  "promoRestoredTitle": "Твій Про повернувся!",
+  "promoUnlockedBody": "Безкоштовний Про від {leaderboard}, до {date}.",
+  "promoUnlockedNote": "Він залишається з тобою, поки ти в таблиці лідерів.",
+  "promoUnlockedCta": "Поїхали",
+  "promoPendingToast": "Заверши гру, щоб розблокувати безкоштовний Про від {leaderboard}.",
+  "promoFullToast": "Усі безкоштовні місця Про в {leaderboard} уже зайняті.",
+  "promoUsedToast": "Ти вже отримував свій безкоштовний Про.",
+  "promoLeaveWarning": "Якщо вийдеш, безкоштовний Про від {leaderboard} закінчиться. Приєднайся знову до {date}, щоб його повернути.",
+  "profileProMember": "Учасник Про",
+  "profileProEnds": "закінчується {date}"
 }

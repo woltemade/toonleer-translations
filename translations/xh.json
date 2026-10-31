@@ -884,5 +884,16 @@
   "whyKidsLove": "Kutheni abantwana bethanda iToonleer",
   "recordStarsOf": "%d/%d iinkwenkwezi",
   "onbUsernameNotAllowed": "Nceda khetha elinye igama lomsebenzisi.",
-  "uiUsernameNotAllowed": "Nceda khetha elinye igama lomsebenzisi."
+  "uiUsernameNotAllowed": "Nceda khetha elinye igama lomsebenzisi.",
+  "promoUnlockedTitle": "I-Pro ivuliwe!",
+  "promoRestoredTitle": "I-Pro yakho ibuyile!",
+  "promoUnlockedBody": "I-Pro yasimahla evela ku-{leaderboard}, de kube ngu-{date}.",
+  "promoUnlockedNote": "Ihlala nawe lo gama usekuluhlu lwabanqobi.",
+  "promoUnlockedCta": "Masiqale",
+  "promoPendingToast": "Gqiba umdlalo omnye ukuze uvule i-Pro yakho yasimahla evela ku-{leaderboard}.",
+  "promoFullToast": "Zonke iindawo ze-Pro yasimahla ku-{leaderboard} sele zithathiwe.",
+  "promoUsedToast": "Sele uyifumene i-Pro yakho yasimahla.",
+  "promoLeaveWarning": "Ukuba uyaphuma, i-Pro yasimahla oyinikwe ngu-{leaderboard} iya kuphela. Joyina kwakhona phambi ko-{date} ukuze uyibuyise.",
+  "profileProMember": "Ilungu le-Pro",
+  "profileProEnds": "iphela ngo-{date}"
 }

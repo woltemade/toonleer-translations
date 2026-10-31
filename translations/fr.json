@@ -884,5 +884,16 @@
   "whyKidsLove": "Pourquoi les enfants adorent Toonleer",
   "recordStarsOf": "%d/%d étoiles",
   "onbUsernameNotAllowed": "Choisis un autre nom d'utilisateur.",
-  "uiUsernameNotAllowed": "Choisis un autre nom d'utilisateur."
+  "uiUsernameNotAllowed": "Choisis un autre nom d'utilisateur.",
+  "promoUnlockedTitle": "Pro débloqué !",
+  "promoRestoredTitle": "Ton Pro est de retour !",
+  "promoUnlockedBody": "Pro gratuit offert par {leaderboard}, jusqu'au {date}.",
+  "promoUnlockedNote": "Tu le gardes tant que tu restes dans le classement.",
+  "promoUnlockedCta": "C'est parti",
+  "promoPendingToast": "Termine une partie pour débloquer ton Pro gratuit de {leaderboard}.",
+  "promoFullToast": "Toutes les places Pro gratuites de {leaderboard} sont prises.",
+  "promoUsedToast": "Tu as déjà profité de ton Pro gratuit.",
+  "promoLeaveWarning": "Quitter mettra fin au Pro gratuit offert par {leaderboard}. Rejoins-le avant le {date} pour le récupérer.",
+  "profileProMember": "Membre Pro",
+  "profileProEnds": "se termine le {date}"
 }

@@ -884,5 +884,16 @@
   "whyKidsLove": "为什么孩子们喜爱 Toonleer",
   "recordStarsOf": "%d/%d 星",
   "onbUsernameNotAllowed": "请选择其他用户名。",
-  "uiUsernameNotAllowed": "请选择其他用户名。"
+  "uiUsernameNotAllowed": "请选择其他用户名。",
+  "promoUnlockedTitle": "专业版已解锁！",
+  "promoRestoredTitle": "你的专业版回来了！",
+  "promoUnlockedBody": "来自 {leaderboard} 的免费专业版，有效期至 {date}。",
+  "promoUnlockedNote": "只要你留在排行榜上，它就一直属于你。",
+  "promoUnlockedCta": "开始吧",
+  "promoPendingToast": "完成一局游戏，即可解锁来自 {leaderboard} 的免费专业版。",
+  "promoFullToast": "{leaderboard} 的免费专业版名额已全部领完。",
+  "promoUsedToast": "你已经领取过免费专业版了。",
+  "promoLeaveWarning": "离开后，{leaderboard} 给你的免费专业版将会结束。在 {date} 之前重新加入即可恢复。",
+  "profileProMember": "专业版会员",
+  "profileProEnds": "{date} 到期"
 }

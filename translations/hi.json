@@ -884,5 +884,16 @@
   "whyKidsLove": "बच्चे Toonleer क्यों पसंद करते हैं",
   "recordStarsOf": "%d/%d सितारे",
   "onbUsernameNotAllowed": "कृपया कोई दूसरा उपयोगकर्ता नाम चुनें।",
-  "uiUsernameNotAllowed": "कृपया कोई दूसरा उपयोगकर्ता नाम चुनें।"
+  "uiUsernameNotAllowed": "कृपया कोई दूसरा उपयोगकर्ता नाम चुनें।",
+  "promoUnlockedTitle": "प्रो अनलॉक हो गया!",
+  "promoRestoredTitle": "आपका प्रो वापस आ गया!",
+  "promoUnlockedBody": "{leaderboard} की ओर से मुफ्त प्रो, {date} तक।",
+  "promoUnlockedNote": "जब तक आप लीडरबोर्ड पर रहेंगे, यह आपके साथ रहेगा।",
+  "promoUnlockedCta": "चलो शुरू करें",
+  "promoPendingToast": "{leaderboard} से अपना मुफ्त प्रो अनलॉक करने के लिए एक गेम पूरा करें।",
+  "promoFullToast": "{leaderboard} की सभी मुफ्त प्रो जगहें भर चुकी हैं।",
+  "promoUsedToast": "आप पहले ही अपना मुफ्त प्रो ले चुके हैं।",
+  "promoLeaveWarning": "छोड़ने पर {leaderboard} द्वारा दिया गया मुफ्त प्रो समाप्त हो जाएगा। इसे वापस पाने के लिए {date} से पहले फिर से जुड़ें।",
+  "profileProMember": "प्रो सदस्य",
+  "profileProEnds": "{date} को समाप्त"
 }

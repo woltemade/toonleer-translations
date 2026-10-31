@@ -884,5 +884,16 @@
   "whyKidsLove": "لماذا يحب الأطفال Toonleer",
   "recordStarsOf": "%d/%d نجوم",
   "onbUsernameNotAllowed": "يرجى اختيار اسم مستخدم آخر.",
-  "uiUsernameNotAllowed": "يرجى اختيار اسم مستخدم آخر."
+  "uiUsernameNotAllowed": "يرجى اختيار اسم مستخدم آخر.",
+  "promoUnlockedTitle": "تم فتح برو!",
+  "promoRestoredTitle": "عاد برو الخاص بك!",
+  "promoUnlockedBody": "برو مجاني من {leaderboard} حتى {date}.",
+  "promoUnlockedNote": "يبقى معك ما دمت في لوحة المتصدرين.",
+  "promoUnlockedCta": "هيا بنا",
+  "promoPendingToast": "أكمل لعبة واحدة لتفتح برو المجاني من {leaderboard}.",
+  "promoFullToast": "تم حجز جميع أماكن برو المجانية في {leaderboard}.",
+  "promoUsedToast": "لقد حصلت بالفعل على برو المجاني.",
+  "promoLeaveWarning": "المغادرة تُنهي برو المجاني الذي منحك إياه {leaderboard}. انضم مجددًا قبل {date} لاستعادته.",
+  "profileProMember": "عضو برو",
+  "profileProEnds": "ينتهي في {date}"
 }

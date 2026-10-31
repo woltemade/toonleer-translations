@@ -884,5 +884,16 @@
   "whyKidsLove": "Kwa nini watoto wanapenda Toonleer",
   "recordStarsOf": "nyota %d/%d",
   "onbUsernameNotAllowed": "Tafadhali chagua jina lingine la mtumiaji.",
-  "uiUsernameNotAllowed": "Tafadhali chagua jina lingine la mtumiaji."
+  "uiUsernameNotAllowed": "Tafadhali chagua jina lingine la mtumiaji.",
+  "promoUnlockedTitle": "Pro imefunguliwa!",
+  "promoRestoredTitle": "Pro yako imerudi!",
+  "promoUnlockedBody": "Pro ya bure kutoka {leaderboard}, hadi {date}.",
+  "promoUnlockedNote": "Itabaki nawe muda wote ukiwa kwenye orodha ya washindi.",
+  "promoUnlockedCta": "Twende",
+  "promoPendingToast": "Maliza mchezo mmoja ili kufungua Pro yako ya bure kutoka {leaderboard}.",
+  "promoFullToast": "Nafasi zote za Pro ya bure za {leaderboard} zimeshachukuliwa.",
+  "promoUsedToast": "Tayari umeshapata Pro yako ya bure.",
+  "promoLeaveWarning": "Ukiondoka, Pro ya bure uliyopewa na {leaderboard} itaisha. Jiunge tena kabla ya {date} ili uirudishe.",
+  "profileProMember": "Mwanachama wa Pro",
+  "profileProEnds": "inaisha {date}"
 }

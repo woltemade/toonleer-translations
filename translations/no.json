@@ -884,5 +884,16 @@
   "whyKidsLove": "Hvorfor barn elsker Toonleer",
   "recordStarsOf": "%d/%d stjerner",
   "onbUsernameNotAllowed": "Velg et annet brukernavn.",
-  "uiUsernameNotAllowed": "Velg et annet brukernavn."
+  "uiUsernameNotAllowed": "Velg et annet brukernavn.",
+  "promoUnlockedTitle": "Pro låst opp!",
+  "promoRestoredTitle": "Pro-en din er tilbake!",
+  "promoUnlockedBody": "Gratis Pro fra {leaderboard}, til {date}.",
+  "promoUnlockedNote": "Du beholder den så lenge du blir på ledertavlen.",
+  "promoUnlockedCta": "Kjør på",
+  "promoPendingToast": "Fullfør et spill for å låse opp gratis Pro fra {leaderboard}.",
+  "promoFullToast": "Alle gratis Pro-plasser hos {leaderboard} er tatt.",
+  "promoUsedToast": "Du har allerede hatt gratis Pro.",
+  "promoLeaveWarning": "Hvis du forlater, slutter gratis Pro som {leaderboard} ga deg. Bli med igjen før {date} for å få den tilbake.",
+  "profileProMember": "Pro-medlem",
+  "profileProEnds": "utløper {date}"
 }

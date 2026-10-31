@@ -884,5 +884,16 @@
   "whyKidsLove": "Mengapa anak-anak menyukai Toonleer",
   "recordStarsOf": "%d/%d bintang",
   "onbUsernameNotAllowed": "Silakan pilih nama pengguna lain.",
-  "uiUsernameNotAllowed": "Silakan pilih nama pengguna lain."
+  "uiUsernameNotAllowed": "Silakan pilih nama pengguna lain.",
+  "promoUnlockedTitle": "Pro terbuka!",
+  "promoRestoredTitle": "Pro kamu kembali!",
+  "promoUnlockedBody": "Pro gratis dari {leaderboard}, hingga {date}.",
+  "promoUnlockedNote": "Tetap milikmu selama kamu ada di papan peringkat.",
+  "promoUnlockedCta": "Ayo mulai",
+  "promoPendingToast": "Selesaikan satu permainan untuk membuka Pro gratis dari {leaderboard}.",
+  "promoFullToast": "Semua kuota Pro gratis {leaderboard} sudah habis.",
+  "promoUsedToast": "Kamu sudah pernah mendapatkan Pro gratis.",
+  "promoLeaveWarning": "Keluar akan mengakhiri Pro gratis dari {leaderboard}. Gabung lagi sebelum {date} untuk mendapatkannya kembali.",
+  "profileProMember": "Anggota Pro",
+  "profileProEnds": "berakhir {date}"
 }

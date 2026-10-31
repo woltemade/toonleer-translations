@@ -965,5 +965,16 @@
   "storeShotRecord": "SET YOUR RECORD",
   "recordStarsOf": "%d/%d stars",
   "onbUsernameNotAllowed": "Please choose a different username.",
-  "uiUsernameNotAllowed": "Please choose a different username."
+  "uiUsernameNotAllowed": "Please choose a different username.",
+  "promoUnlockedTitle": "Pro unlocked!",
+  "promoRestoredTitle": "Your Pro is back!",
+  "promoUnlockedBody": "Free Pro from {leaderboard}, until {date}.",
+  "promoUnlockedNote": "It stays with you while you stay on the leaderboard.",
+  "promoUnlockedCta": "Let's go",
+  "promoPendingToast": "Finish a game to unlock your free Pro from {leaderboard}.",
+  "promoFullToast": "{leaderboard}'s free Pro spots are all taken.",
+  "promoUsedToast": "You've already had your free Pro.",
+  "promoLeaveWarning": "Leaving ends the free Pro {leaderboard} gave you. Re-join before {date} to get it back.",
+  "profileProMember": "Pro Member",
+  "profileProEnds": "ends {date}"
 }

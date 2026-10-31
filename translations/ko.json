@@ -884,5 +884,16 @@
   "whyKidsLove": "아이들이 Toonleer를 좋아하는 이유",
   "recordStarsOf": "별 %d/%d",
   "onbUsernameNotAllowed": "다른 사용자 이름을 선택해 주세요.",
-  "uiUsernameNotAllowed": "다른 사용자 이름을 선택해 주세요."
+  "uiUsernameNotAllowed": "다른 사용자 이름을 선택해 주세요.",
+  "promoUnlockedTitle": "프로 잠금 해제!",
+  "promoRestoredTitle": "프로가 돌아왔어요!",
+  "promoUnlockedBody": "{leaderboard}에서 받은 무료 프로, {date}까지.",
+  "promoUnlockedNote": "리더보드에 남아 있는 동안 계속 유지돼요.",
+  "promoUnlockedCta": "시작하기",
+  "promoPendingToast": "게임을 한 판 끝내면 {leaderboard}의 무료 프로가 열려요.",
+  "promoFullToast": "{leaderboard}의 무료 프로 자리가 모두 찼어요.",
+  "promoUsedToast": "이미 무료 프로를 받았어요.",
+  "promoLeaveWarning": "나가면 {leaderboard}에서 받은 무료 프로가 끝나요. {date} 전에 다시 참여하면 되돌려 받을 수 있어요.",
+  "profileProMember": "프로 회원",
+  "profileProEnds": "{date} 종료"
 }
