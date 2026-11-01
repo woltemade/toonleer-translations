@@ -671,6 +671,7 @@
   "proFeatureUnlimitedRetries": "Intentos ilimitados",
   "proMoveBody": "Esta suscripción del App Store está vinculada a otra cuenta de Toonleer, quizá una de antes de reinstalar la app. ¿Pasarla aquí? La otra cuenta perderá Pro.",
   "proMoveConfirm": "Pasar Pro aquí",
+  "proMoveFailed": "No pudimos pasar Pro a esta cuenta. No se ha cobrado nada. Inténtalo de nuevo en un momento.",
   "proMoveTitle": "¿Pasar Pro a esta cuenta?",
   "proNeedsAccount": "Conéctate a internet una vez para terminar de configurar tu cuenta y después podrás conseguir Pro.",
   "proNothingToRestore": "No encontramos ninguna suscripción a Toonleer Pro para este Apple ID.",

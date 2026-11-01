@@ -671,6 +671,7 @@
   "proFeatureUnlimitedRetries": "Essais illimités",
   "proMoveBody": "Cet abonnement App Store est lié à un autre compte Toonleer, peut-être celui d'avant la réinstallation de l'app. Le transférer ici ? L'autre compte perdra Pro.",
   "proMoveConfirm": "Transférer Pro ici",
+  "proMoveFailed": "Nous n'avons pas pu transférer Pro vers ce compte. Rien n'a été débité. Veuillez réessayer dans un instant.",
   "proMoveTitle": "Transférer Pro vers ce compte ?",
   "proNeedsAccount": "Connectez-vous à Internet une fois pour terminer la configuration de votre compte, puis vous pourrez obtenir Pro.",
   "proNothingToRestore": "Aucun abonnement Toonleer Pro n'a été trouvé pour cet identifiant Apple.",

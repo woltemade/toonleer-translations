@@ -671,6 +671,7 @@
   "proFeatureUnlimitedRetries": "Sınırsız deneme",
   "proMoveBody": "Bu App Store aboneliği başka bir Toonleer hesabına bağlı; belki uygulamayı yeniden yüklemeden önceki hesaba. Buraya taşınsın mı? Diğer hesap Pro'yu kaybedecek.",
   "proMoveConfirm": "Pro'yu buraya taşı",
+  "proMoveFailed": "Pro bu hesaba taşınamadı. Hiçbir ücret alınmadı. Lütfen biraz sonra tekrar deneyin.",
   "proMoveTitle": "Pro bu hesaba taşınsın mı?",
   "proNeedsAccount": "Hesabınızın kurulumunu tamamlamak için bir kez internete bağlanın, ardından Pro alabilirsiniz.",
   "proNothingToRestore": "Bu Apple Kimliği için bir Toonleer Pro aboneliği bulunamadı.",

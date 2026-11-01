@@ -671,6 +671,7 @@
   "proFeatureUnlimitedRetries": "Ubegrenset antall forsøk",
   "proMoveBody": "Dette App Store-abonnementet er knyttet til en annen Toonleer-konto, kanskje en fra før du installerte appen på nytt. Flytte det hit? Den andre kontoen mister Pro.",
   "proMoveConfirm": "Flytt Pro hit",
+  "proMoveFailed": "Vi klarte ikke å flytte Pro til denne kontoen. Ingenting er belastet. Prøv igjen om litt.",
   "proMoveTitle": "Flytte Pro til denne kontoen?",
   "proNeedsAccount": "Koble til internett én gang for å fullføre kontoen din, så kan du få Pro.",
   "proNothingToRestore": "Vi fant ikke noe Toonleer Pro-abonnement for denne Apple-ID-en.",

@@ -671,6 +671,7 @@
   "proFeatureUnlimitedRetries": "محاولات بلا حدود",
   "proMoveBody": "اشتراك App Store هذا مرتبط بحساب Toonleer آخر، ربما حساب من قبل إعادة تثبيت التطبيق. هل تريد نقله إلى هنا؟ سيفقد الحساب الآخر Pro.",
   "proMoveConfirm": "انقل Pro إلى هنا",
+  "proMoveFailed": "لم نتمكن من نقل Pro إلى هذا الحساب. لم يتم خصم أي مبلغ. يُرجى المحاولة مرة أخرى بعد لحظات.",
   "proMoveTitle": "نقل Pro إلى هذا الحساب؟",
   "proNeedsAccount": "اتصل بالإنترنت مرة واحدة لإكمال إعداد حسابك، ثم يمكنك الحصول على Pro.",
   "proNothingToRestore": "لم نعثر على اشتراك Toonleer Pro لحساب Apple ID هذا.",

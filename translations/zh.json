@@ -671,6 +671,7 @@
   "proFeatureUnlimitedRetries": "无限次重试",
   "proMoveBody": "此 App Store 订阅已关联到另一个 Toonleer 账户，可能是你重新安装应用之前的账户。要转移到这里吗？另一个账户将失去 Pro。",
   "proMoveConfirm": "将 Pro 转到这里",
+  "proMoveFailed": "无法将 Pro 转移到此账户。未产生任何费用。请稍后再试。",
   "proMoveTitle": "将 Pro 转移到此账户？",
   "proNeedsAccount": "请先联网一次以完成账户设置，然后即可获取 Pro。",
   "proNothingToRestore": "未找到此 Apple ID 的 Toonleer Pro 订阅。",

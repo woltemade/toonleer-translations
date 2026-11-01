@@ -671,6 +671,7 @@
   "proFeatureUnlimitedRetries": "Unbegrenzte Versuche",
   "proMoveBody": "Dieses App Store-Abo ist mit einem anderen Toonleer-Konto verknüpft, vielleicht einem von vor der Neuinstallation. Hierher übertragen? Das andere Konto verliert Pro.",
   "proMoveConfirm": "Pro hierher übertragen",
+  "proMoveFailed": "Wir konnten Pro nicht auf dieses Konto übertragen. Es wurde nichts abgebucht. Bitte versuche es gleich noch einmal.",
   "proMoveTitle": "Pro auf dieses Konto übertragen?",
   "proNeedsAccount": "Verbinde dich einmal mit dem Internet, um dein Konto fertig einzurichten, dann kannst du Pro holen.",
   "proNothingToRestore": "Wir haben für diese Apple-ID kein Toonleer Pro-Abo gefunden.",

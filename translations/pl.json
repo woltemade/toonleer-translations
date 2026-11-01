@@ -671,6 +671,7 @@
   "proFeatureUnlimitedRetries": "Nieograniczone próby",
   "proMoveBody": "Ta subskrypcja App Store jest powiązana z innym kontem Toonleer, może z tym sprzed ponownej instalacji aplikacji. Przenieść ją tutaj? Tamto konto straci Pro.",
   "proMoveConfirm": "Przenieś Pro tutaj",
+  "proMoveFailed": "Nie udało się przenieść Pro na to konto. Nic nie zostało pobrane. Spróbuj ponownie za chwilę.",
   "proMoveTitle": "Przenieść Pro na to konto?",
   "proNeedsAccount": "Połącz się raz z internetem, aby dokończyć konfigurację konta, a potem możesz kupić Pro.",
   "proNothingToRestore": "Nie znaleźliśmy subskrypcji Toonleer Pro dla tego Apple ID.",

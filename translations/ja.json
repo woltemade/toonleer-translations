@@ -671,6 +671,7 @@
   "proFeatureUnlimitedRetries": "リトライ無制限",
   "proMoveBody": "このApp Storeサブスクリプションは別のToonleerアカウントに紐づいています。アプリを再インストールする前のアカウントかもしれません。こちらに移しますか？もう一方のアカウントはProではなくなります。",
   "proMoveConfirm": "Proをこちらに移す",
+  "proMoveFailed": "Proをこのアカウントに移せませんでした。料金は発生していません。しばらくしてからもう一度お試しください。",
   "proMoveTitle": "Proをこのアカウントに移しますか？",
   "proNeedsAccount": "アカウントの設定を完了するため、一度インターネットに接続してください。その後Proを入手できます。",
   "proNothingToRestore": "このApple IDのToonleer Proサブスクリプションが見つかりませんでした。",

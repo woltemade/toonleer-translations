@@ -733,6 +733,7 @@
   "proFeatureUnlimitedRetries": "Unlimited retries",
   "proMoveBody": "This App Store subscription is linked to another Toonleer account, perhaps one from before you reinstalled. Move it here? The other account will lose Pro.",
   "proMoveConfirm": "Move Pro here",
+  "proMoveFailed": "We couldn't move Pro to this account. Nothing was charged. Please try again in a moment.",
   "proMoveTitle": "Move Pro to this account?",
   "proNeedsAccount": "Connect to the internet once to finish setting up your account, then you can get Pro.",
   "proNothingToRestore": "We couldn't find a Toonleer Pro subscription for this Apple ID.",

@@ -671,6 +671,7 @@
   "proFeatureUnlimitedRetries": "Onbeperkt opnieuw proberen",
   "proMoveBody": "Dit App Store-abonnement is gekoppeld aan een ander Toonleer-account, misschien een van voordat je de app opnieuw installeerde. Hierheen verplaatsen? Het andere account verliest Pro.",
   "proMoveConfirm": "Pro hierheen verplaatsen",
+  "proMoveFailed": "We konden Pro niet naar dit account verplaatsen. Er is niets afgeschreven. Probeer het zo opnieuw.",
   "proMoveTitle": "Pro naar dit account verplaatsen?",
   "proNeedsAccount": "Maak één keer verbinding met internet om je account af te ronden, daarna kun je Pro nemen.",
   "proNothingToRestore": "We hebben geen Toonleer Pro-abonnement gevonden voor deze Apple ID.",
