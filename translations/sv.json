@@ -681,7 +681,7 @@
   "proMoveTitle": "Flytta Pro till det här kontot?",
   "proNeedsAccount": "Anslut till internet en gång för att slutföra ditt konto, sedan kan du skaffa Pro.",
   "proNothingToRestore": "Vi hittade ingen Toonleer Pro-prenumeration för detta Apple-ID.",
-  "proOfferBadge": "Tidsbegränsat erbjudande",
+  "proOfferBadge": "Introduktionserbjudande",
   "proOfferForDuration": "i {duration}",
   "proOfferFreeFor": "Gratis i {duration}",
   "proOfferTermsFreeTrial": "Gratis i {duration}, därefter {price} / {unit}. Säg upp när som helst innan provperioden slutar så betalar du ingenting.",

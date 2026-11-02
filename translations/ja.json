@@ -681,7 +681,7 @@
   "proMoveTitle": "Proをこのアカウントに移しますか？",
   "proNeedsAccount": "アカウントの設定を完了するため、一度インターネットに接続してください。その後Proを入手できます。",
   "proNothingToRestore": "このApple IDのToonleer Proサブスクリプションが見つかりませんでした。",
-  "proOfferBadge": "期間限定オファー",
+  "proOfferBadge": "初回限定オファー",
   "proOfferForDuration": "{duration}間",
   "proOfferFreeFor": "{duration}間無料",
   "proOfferTermsFreeTrial": "{duration}間無料、その後は{price} / {unit}。無料期間が終わる前に解約すれば料金はかかりません。",

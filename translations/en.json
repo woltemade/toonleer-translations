@@ -743,7 +743,7 @@
   "proMoveTitle": "Move Pro to this account?",
   "proNeedsAccount": "Connect to the internet once to finish setting up your account, then you can get Pro.",
   "proNothingToRestore": "We couldn't find a Toonleer Pro subscription for this Apple ID.",
-  "proOfferBadge": "Limited-time offer",
+  "proOfferBadge": "Introductory offer",
   "proOfferForDuration": "for {duration}",
   "proOfferFreeFor": "Free for {duration}",
   "proOfferTermsFreeTrial": "Free for {duration}, then {price} / {unit}. Cancel any time before the trial ends and you pay nothing.",

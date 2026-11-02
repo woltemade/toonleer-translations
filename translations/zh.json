@@ -681,7 +681,7 @@
   "proMoveTitle": "将 Pro 转移到此账户？",
   "proNeedsAccount": "请先联网一次以完成账户设置，然后即可获取 Pro。",
   "proNothingToRestore": "未找到此 Apple ID 的 Toonleer Pro 订阅。",
-  "proOfferBadge": "限时优惠",
+  "proOfferBadge": "新用户优惠",
   "proOfferForDuration": "{duration}",
   "proOfferFreeFor": "免费 {duration}",
   "proOfferTermsFreeTrial": "免费 {duration}，之后 {price} / {unit}。在试用期结束前随时取消，无需付费。",

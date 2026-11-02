@@ -681,7 +681,7 @@
   "proMoveTitle": "Перенести Pro на цей обліковий запис?",
   "proNeedsAccount": "Під'єднайтеся до інтернету один раз, щоб завершити налаштування облікового запису, і тоді зможете отримати Pro.",
   "proNothingToRestore": "Ми не знайшли підписки Toonleer Pro для цього Apple ID.",
-  "proOfferBadge": "Пропозиція обмежена в часі",
+  "proOfferBadge": "Вітальна пропозиція",
   "proOfferForDuration": "на {duration}",
   "proOfferFreeFor": "Безкоштовно {duration}",
   "proOfferTermsFreeTrial": "Безкоштовно {duration}, потім {price} / {unit}. Скасуйте будь-коли до кінця пробного періоду, і ви нічого не заплатите.",

@@ -681,7 +681,7 @@
   "proMoveTitle": "¿Pasar Pro a esta cuenta?",
   "proNeedsAccount": "Conéctate a internet una vez para terminar de configurar tu cuenta y después podrás conseguir Pro.",
   "proNothingToRestore": "No encontramos ninguna suscripción a Toonleer Pro para este Apple ID.",
-  "proOfferBadge": "Oferta por tiempo limitado",
+  "proOfferBadge": "Oferta de bienvenida",
   "proOfferForDuration": "durante {duration}",
   "proOfferFreeFor": "Gratis durante {duration}",
   "proOfferTermsFreeTrial": "Gratis durante {duration}, después {price} / {unit}. Cancela en cualquier momento antes de que termine la prueba y no pagarás nada.",
