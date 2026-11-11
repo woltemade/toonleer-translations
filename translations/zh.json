@@ -541,6 +541,7 @@
   "onbUsernamePrompt": "选择一个用户名",
   "onbUsernameTaken": "该用户名已被使用 - 换一个",
   "onbWelcomeTagline": "心算越来越快。每一天。",
+  "pausedNotice": "",
   "pdAll": "全部",
   "pdApplyIntro": "作为获批的合作伙伴，您将从通过分享链接注册的订阅者每笔付款中赚取30%佣金。佣金每月跟踪和支付。",
   "pdApplyTitle": "申请合作伙伴状态",

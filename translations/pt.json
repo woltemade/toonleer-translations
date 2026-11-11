@@ -541,6 +541,7 @@
   "onbUsernamePrompt": "Escolhe um nome de utilizador",
   "onbUsernameTaken": "Esse nome já existe - tenta outro",
   "onbWelcomeTagline": "Fica mais rápido no cálculo mental. Todos os dias.",
+  "pausedNotice": "",
   "pdAll": "Todos",
   "pdApplyIntro": "Como parceiro aprovado, você ganhará 30% de comissão em cada pagamento de assinantes que se registrarem pelo seu link de compartilhamento. As comissões são rastreadas e pagas mensalmente.",
   "pdApplyTitle": "Candidatar-se ao Status de Parceiro",

@@ -541,6 +541,7 @@
   "onbUsernamePrompt": "ユーザー名を選ぶ",
   "onbUsernameTaken": "そのユーザー名は使用済みです - 別のものをお試しください",
   "onbWelcomeTagline": "暗算がもっと速くなる。毎日。",
+  "pausedNotice": "",
   "pdAll": "すべて",
   "pdApplyIntro": "承認されたパートナーとして、シェアリンク経由で登録した購読者からの各支払いで30%のコミッションを獲得できます。コミッションは毎月追跡・支払われます。",
   "pdApplyTitle": "パートナー申請をする",
