@@ -1060,5 +1060,13 @@
   "upgrade": "Upgrade",
   "videoNotSupported": "Your browser can't make videos yet - try Chrome, or use Share Image.",
   "videoRenderError": "Something went wrong rendering the video.",
-  "whyKidsLove": "Why kids love Toonleer"
+  "whyKidsLove": "Why kids love Toonleer",
+  "lbBecomePartner": "Become a Partner",
+  "pdForBoard": "For {name}",
+  "pdOtherBoards": "Your other leaderboards",
+  "pdOtherBoardsIntro": "Each leaderboard is verified and approved on its own. Joins through a leaderboard's link earn commission only once that leaderboard is approved.",
+  "pdStatusUnverified": "Not verified",
+  "pdStatusApply": "Apply",
+  "pdStatusPending": "Pending",
+  "pdStatusRejected": "Rejected"
 }
