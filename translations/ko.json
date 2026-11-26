@@ -1068,5 +1068,12 @@
   "smPosterCode": "초대 코드: {code}",
   "printJoinLine": "Toonleer에서 {name}에 참여하세요",
   "printJoinLineGeneric": "Toonleer에서 순위표에 참여하세요",
-  "printCodeLine": "QR 코드를 스캔하거나 Toonleer 앱을 받아 코드 {code}를 입력하세요"
+  "printCodeLine": "QR 코드를 스캔하거나 Toonleer 앱을 받아 코드 {code}를 입력하세요",
+  "pdQrApp": "앱 받기",
+  "pdQrAppDesc": "Toonleer 앱을 받는 페이지를 엽니다. 거기에 코드가 표시되어 새 플레이어가 리더보드에 참여하고 모든 스캔이 추적됩니다.",
+  "pdQrWeb": "웹에서 플레이",
+  "pdCounterH": "카운터 카드",
+  "pdCounterDesc": "가게 카운터나 카페 테이블에 세워 두세요. 손님이 코드를 스캔하면 Toonleer를 무료로 다운로드하고 리더보드에 참여합니다.",
+  "pdCounterHead": "무료 수학 게임을 다운로드하고\n세계 기록에 도전하세요!",
+  "pdCounterScan": "휴대폰 카메라로 스캔하세요"
 }

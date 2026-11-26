@@ -1068,5 +1068,12 @@
   "smPosterCode": "Kode undangan: {code}",
   "printJoinLine": "Gabung dengan {name} di Toonleer",
   "printJoinLineGeneric": "Gabung ke papan peringkat di Toonleer",
-  "printCodeLine": "Pindai kode QR, atau unduh aplikasi Toonleer dan masukkan kode {code}"
+  "printCodeLine": "Pindai kode QR, atau unduh aplikasi Toonleer dan masukkan kode {code}",
+  "pdQrApp": "Dapatkan aplikasinya",
+  "pdQrAppDesc": "Membuka halaman untuk mendapatkan aplikasi Toonleer. Kode Anda ditampilkan di sana, sehingga pemain baru bergabung ke papan peringkat Anda dan setiap pemindaian terlacak.",
+  "pdQrWeb": "Main di web",
+  "pdCounterH": "Kartu meja kasir",
+  "pdCounterDesc": "Letakkan di meja kasir toko atau meja kafe Anda. Pelanggan memindai kode untuk mengunduh Toonleer gratis dan bergabung ke papan peringkat Anda.",
+  "pdCounterHead": "Unduh game matematika GRATIS kami,\ndan cetak rekor dunia!",
+  "pdCounterScan": "Pindai dengan kamera ponsel Anda"
 }

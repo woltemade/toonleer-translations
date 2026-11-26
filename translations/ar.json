@@ -1068,5 +1068,12 @@
   "smPosterCode": "رمز الدعوة: {code}",
   "printJoinLine": "انضم إلى {name} على Toonleer",
   "printJoinLineGeneric": "انضم إلى لوحة الصدارة على Toonleer",
-  "printCodeLine": "امسح رمز QR، أو نزّل تطبيق Toonleer وأدخل الرمز {code}"
+  "printCodeLine": "امسح رمز QR، أو نزّل تطبيق Toonleer وأدخل الرمز {code}",
+  "pdQrApp": "احصل على التطبيق",
+  "pdQrAppDesc": "يفتح صفحة الحصول على تطبيق Toonleer. يظهر رمزك هناك، فينضم اللاعبون الجدد إلى لوحة صدارتك ويُتتبَّع كل مسح.",
+  "pdQrWeb": "العب على الويب",
+  "pdCounterH": "بطاقة الكاونتر",
+  "pdCounterDesc": "ضعها على كاونتر متجرك أو طاولات المقهى. يمسح الزبائن الرمز لتنزيل Toonleer مجانًا والانضمام إلى لوحة صدارتك.",
+  "pdCounterHead": "نزّل لعبة الرياضيات المجانية\nوحطّم رقمًا قياسيًا عالميًا!",
+  "pdCounterScan": "امسح الرمز بكاميرا هاتفك"
 }

@@ -1068,5 +1068,12 @@
   "smPosterCode": "Uitnodigingscode: {code}",
   "printJoinLine": "Doe mee met {name} op Toonleer",
   "printJoinLineGeneric": "Doe mee met de ranglijst op Toonleer",
-  "printCodeLine": "Scan de QR-code, of download de Toonleer-app en voer code {code} in"
+  "printCodeLine": "Scan de QR-code, of download de Toonleer-app en voer code {code} in",
+  "pdQrApp": "Download de app",
+  "pdQrAppDesc": "Opent de pagina om de Toonleer-app te downloaden. Daar staat je code, zodat nieuwe spelers zich bij je ranglijst aansluiten en elke scan wordt bijgehouden.",
+  "pdQrWeb": "Speel op het web",
+  "pdCounterH": "Toonbankkaart",
+  "pdCounterDesc": "Zet hem op je winkeltoonbank of cafétafels. Klanten scannen de code om Toonleer gratis te downloaden en zich bij je ranglijst aan te sluiten.",
+  "pdCounterHead": "Download ons GRATIS rekenspel\nen vestig een wereldrecord!",
+  "pdCounterScan": "Scan met de camera van je telefoon"
 }

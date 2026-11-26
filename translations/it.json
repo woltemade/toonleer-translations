@@ -1068,5 +1068,12 @@
   "smPosterCode": "Codice invito: {code}",
   "printJoinLine": "Unisciti a {name} su Toonleer",
   "printJoinLineGeneric": "Unisciti alla classifica su Toonleer",
-  "printCodeLine": "Scansiona il codice QR, oppure scarica l'app Toonleer e inserisci il codice {code}"
+  "printCodeLine": "Scansiona il codice QR, oppure scarica l'app Toonleer e inserisci il codice {code}",
+  "pdQrApp": "Scarica l'app",
+  "pdQrAppDesc": "Apre la pagina per scaricare l'app Toonleer. Lì viene mostrato il tuo codice, così i nuovi giocatori si uniscono alla tua classifica e ogni scansione viene tracciata.",
+  "pdQrWeb": "Gioca sul web",
+  "pdCounterH": "Cartoncino da banco",
+  "pdCounterDesc": "Mettilo sul bancone del negozio o sui tavoli del bar. I clienti scansionano il codice per scaricare Toonleer gratis e unirsi alla tua classifica.",
+  "pdCounterHead": "Scarica il nostro gioco di matematica GRATIS\ne stabilisci un record mondiale!",
+  "pdCounterScan": "Scansiona con la fotocamera del telefono"
 }

@@ -1068,5 +1068,12 @@
   "smPosterCode": "Invitasjonskode: {code}",
   "printJoinLine": "Bli med i {name} på Toonleer",
   "printJoinLineGeneric": "Bli med på topplista på Toonleer",
-  "printCodeLine": "Skann QR-koden, eller last ned Toonleer-appen og skriv inn koden {code}"
+  "printCodeLine": "Skann QR-koden, eller last ned Toonleer-appen og skriv inn koden {code}",
+  "pdQrApp": "Last ned appen",
+  "pdQrAppDesc": "Åpner siden der man laster ned Toonleer-appen. Koden din vises der, så nye spillere blir med på ledertavlen din og hvert skann spores.",
+  "pdQrWeb": "Spill på nettet",
+  "pdCounterH": "Diskkort",
+  "pdCounterDesc": "Sett det på butikkdisken eller kafébordene. Kundene skanner koden for å laste ned Toonleer gratis og bli med på ledertavlen din.",
+  "pdCounterHead": "Last ned vårt GRATIS mattespill\nog sett verdensrekord!",
+  "pdCounterScan": "Skann med mobilkameraet"
 }

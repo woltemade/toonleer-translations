@@ -1068,5 +1068,12 @@
   "smPosterCode": "Davet kodu: {code}",
   "printJoinLine": "Toonleer'de {name} grubuna katıl",
   "printJoinLineGeneric": "Toonleer'de liderlik tablosuna katıl",
-  "printCodeLine": "QR kodunu tara ya da Toonleer uygulamasını indirip {code} kodunu gir"
+  "printCodeLine": "QR kodunu tara ya da Toonleer uygulamasını indirip {code} kodunu gir",
+  "pdQrApp": "Uygulamayı indir",
+  "pdQrAppDesc": "Toonleer uygulamasını indirme sayfasını açar. Kodunuz orada gösterilir, böylece yeni oyuncular sıralamanıza katılır ve her tarama izlenir.",
+  "pdQrWeb": "Web'de oyna",
+  "pdCounterH": "Tezgâh kartı",
+  "pdCounterDesc": "Mağazanızın tezgâhına veya kafe masalarınıza koyun. Müşteriler kodu tarayarak Toonleer'i ücretsiz indirir ve sıralamanıza katılır.",
+  "pdCounterHead": "ÜCRETSİZ matematik oyunumuzu indir,\nbir dünya rekoru kır!",
+  "pdCounterScan": "Telefon kamerasıyla tarayın"
 }

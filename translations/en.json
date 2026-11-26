@@ -1175,5 +1175,12 @@
   "smPoster3Head": "Become a times\ntable champion!",
   "smPoster3Sub": "Join {name} on Toonleer and beat your personal best.",
   "smPosterScanApp": "Scan to get the FREE Toonleer game",
-  "smPosterCode": "Invite code: {code}"
+  "smPosterCode": "Invite code: {code}",
+  "pdQrApp": "Get the app",
+  "pdQrAppDesc": "Opens the page to get the Toonleer app. Your code is shown there, so new players join your leaderboard and every scan is tracked.",
+  "pdQrWeb": "Play on the web",
+  "pdCounterH": "Counter card",
+  "pdCounterDesc": "Stand it on your shop counter or café tables. Customers scan the code to download Toonleer for free and join your leaderboard.",
+  "pdCounterHead": "Download our FREE maths game,\nand set a world record!",
+  "pdCounterScan": "Scan with your phone camera"
 }

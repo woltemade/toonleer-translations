@@ -1068,5 +1068,12 @@
   "smPosterCode": "Msimbo wa mwaliko: {code}",
   "printJoinLine": "Jiunge na {name} kwenye Toonleer",
   "printJoinLineGeneric": "Jiunge na bao la viongozi kwenye Toonleer",
-  "printCodeLine": "Changanua msimbo wa QR, au pakua programu ya Toonleer uweke msimbo {code}"
+  "printCodeLine": "Changanua msimbo wa QR, au pakua programu ya Toonleer uweke msimbo {code}",
+  "pdQrApp": "Pata programu",
+  "pdQrAppDesc": "Inafungua ukurasa wa kupata programu ya Toonleer. Msimbo wako unaonyeshwa hapo, ili wachezaji wapya wajiunge na ubao wako wa viongozi na kila skani ifuatiliwe.",
+  "pdQrWeb": "Cheza kwenye wavuti",
+  "pdCounterH": "Kadi ya kaunta",
+  "pdCounterDesc": "Iweke kwenye kaunta ya duka lako au meza za mgahawa. Wateja huchanganua msimbo kupakua Toonleer bure na kujiunga na ubao wako wa viongozi.",
+  "pdCounterHead": "Pakua mchezo wetu wa hesabu BURE,\nna uweke rekodi ya dunia!",
+  "pdCounterScan": "Changanua kwa kamera ya simu yako"
 }

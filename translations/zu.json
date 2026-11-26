@@ -1068,5 +1068,12 @@
   "smPosterCode": "Ikhodi yesimemo: {code}",
   "printJoinLine": "Joyina i-{name} ku-Toonleer",
   "printJoinLineGeneric": "Joyina ibhodi labaholayo ku-Toonleer",
-  "printCodeLine": "Skena ikhodi ye-QR, noma uthole uhlelo lokusebenza lwe-Toonleer bese ufaka ikhodi {code}"
+  "printCodeLine": "Skena ikhodi ye-QR, noma uthole uhlelo lokusebenza lwe-Toonleer bese ufaka ikhodi {code}",
+  "pdQrApp": "Thola uhlelo lokusebenza",
+  "pdQrAppDesc": "Ivula ikhasi lokuthola uhlelo lokusebenza lwe-Toonleer. Ikhodi yakho iboniswa lapho, ngakho abadlali abasha bajoyina ibhodi lakho labaholi futhi konke ukuskena kuyalandelwa.",
+  "pdQrWeb": "Dlala kuwebhu",
+  "pdCounterH": "Ikhadi lekhawunta",
+  "pdCounterDesc": "Libeke ekhawunteni yesitolo sakho noma ematafuleni ekhefi. Amakhasimende askena ikhodi ukuze alande i-Toonleer mahhala futhi ajoyine ibhodi lakho labaholi.",
+  "pdCounterHead": "Landa umdlalo wethu wezibalo MAHHALA,\nubeke irekhodi lomhlaba!",
+  "pdCounterScan": "Skena ngekhamera yefoni yakho"
 }

@@ -1068,5 +1068,12 @@
   "smPosterCode": "Ikhowudi yesimemo: {code}",
   "printJoinLine": "Joyina i-{name} kwi-Toonleer",
   "printJoinLineGeneric": "Joyina ibhodi yabaphambili kwi-Toonleer",
-  "printCodeLine": "Skena ikhowudi ye-QR, okanye ufumane i-app ye-Toonleer uze ufake ikhowudi {code}"
+  "printCodeLine": "Skena ikhowudi ye-QR, okanye ufumane i-app ye-Toonleer uze ufake ikhowudi {code}",
+  "pdQrApp": "Fumana i-app",
+  "pdQrAppDesc": "Ivula iphepha lokufumana i-app ye-Toonleer. Ikhowudi yakho iboniswa apho, ngoko abadlali abatsha bajoyina ibhodi yakho yeenkokeli kwaye yonke into eskeniweyo iyalandelwa.",
+  "pdQrWeb": "Dlala kwiwebhu",
+  "pdCounterH": "Ikhadi lekhawuntara",
+  "pdCounterDesc": "Libeke kwikhawuntara yevenkile yakho okanye kwiitafile zekhefi. Abathengi baskena ikhowudi ukuze bakhuphele i-Toonleer simahla kwaye bajoyine ibhodi yakho yeenkokeli.",
+  "pdCounterHead": "Khuphela umdlalo wethu wezibalo SIMAHLA,\nuze ubeke irekhodi lehlabathi!",
+  "pdCounterScan": "Skena ngekhamera yefowuni yakho"
 }

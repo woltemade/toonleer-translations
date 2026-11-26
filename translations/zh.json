@@ -1068,5 +1068,12 @@
   "smPosterCode": "邀请码：{code}",
   "printJoinLine": "在 Toonleer 上加入 {name}",
   "printJoinLineGeneric": "在 Toonleer 上加入排行榜",
-  "printCodeLine": "扫描二维码，或下载 Toonleer 应用并输入代码 {code}"
+  "printCodeLine": "扫描二维码，或下载 Toonleer 应用并输入代码 {code}",
+  "pdQrApp": "获取应用",
+  "pdQrAppDesc": "打开获取 Toonleer 应用的页面。页面上会显示您的代码，新玩家会加入您的排行榜，每次扫描都会被追踪。",
+  "pdQrWeb": "在网页上玩",
+  "pdCounterH": "柜台卡",
+  "pdCounterDesc": "把它放在您的店铺柜台或咖啡桌上。顾客扫码即可免费下载 Toonleer 并加入您的排行榜。",
+  "pdCounterHead": "下载我们的免费数学游戏，\n创造世界纪录！",
+  "pdCounterScan": "用手机相机扫描"
 }
